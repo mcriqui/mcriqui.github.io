@@ -1,0 +1,29 @@
+# Site settings
+title: Maggie Criqui
+email: maggie.criqui@gmail.com
+description: > # this means to ignore newlines until "baseurl:"
+  UX and Interaction Designer
+baseurl:  # the subpath of your site, e.g. /blog/
+url:  # the base hostname & protocol for your site
+twitter_username: maggiecriqui
+github_username:  mcriqui
+
+# Build settings
+markdown: kramdown
+
+highlighter: pygments
+
+# Pagination
+paginate: 15
+paginate_path: "/portfolio/page:num/"
+
+
+# collections:
+#   portfolio:
+#     output: true
+#     permalink: /portfolio/:path/
+#   poetry:
+#     output: true
+#     permalink: /poetry/:path/
+
+
