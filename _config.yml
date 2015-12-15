@@ -14,16 +14,12 @@ markdown: kramdown
 highlighter: pygments
 
 # Pagination
-paginate: 15
-paginate_path: "/portfolio/page:num/"
+# paginate: 15
+# paginate_path: "/portfolio/page:num/"
 
 
-# collections:
-#   portfolio:
-#     output: true
-#     permalink: /portfolio/:path/
-#   poetry:
-#     output: true
-#     permalink: /poetry/:path/
-
+collections:
+  portfolio:
+    output: true
+    permalink: /portfolio/:path/
 
