@@ -1,23 +1,27 @@
 ---
 layout: post
-title: Project
-description: a project with a background image
-img: /img/12.jpg
+title: Uber
+description: redesigned rating system
+img: /img/Uber.jpg
 ---
 
-Every project has a beautiful feature shocase page. It's easy to include images, in a flexible 3-column grid format. Make your photos 1/3, 2/3, or full width.
+<div class="page-content">
+	<h3><em>"This is a really powerful quote we got from our user."</em></h3>
+	<div class="col one">
+		<strong>Team</strong>
+	</div>
+	<div class="col two">
+		<strong>My Role</strong>
+	</div>
+	<div class="col three">
+		<strong>Timeline</strong>
+	</div>
 
-To give your project a background in the portfolio page, just add the img tag to the front matter like so: 
 
-	---
-	layout: post
-	title: Project
-	description: a project with a background image
-	img: /img/12.jpg
-	---
+</div>
 
 
-<div class="img_row">
+<!-- <div class="img_row">
 	<img class="col one" src="{{ site.baseurl }}/img/1.jpg" alt="" title="example image"/>
 	<img class="col one" src="{{ site.baseurl }}/img/2.jpg" alt="" title="example image"/>
 	<img class="col one" src="{{ site.baseurl }}/img/3.jpg" alt="" title="example image"/>
@@ -53,3 +57,4 @@ The code is simple. Just add a col class to your image, and another class specif
 	  <img class="col two" src="/img/6.jpg"/>
 	  <img class="col one" src="/img/11.jpg"/>
 	</div>
+ -->
