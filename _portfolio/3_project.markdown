@@ -6,7 +6,7 @@ img: /img/Watch.jpg
 quote: “No two calls are the same.” Captain Jon Musgrave, Station 3
 ---
 <div class="img_row">
-	<img class="col three" src="{{ site.baseurl }}/img/Uber_banner.jpg"/>
+	<img class="col three" src="{{ site.baseurl }}/img/Holding_Hands.jpg"/>
 </div>
 
 <div class="post-content">
@@ -50,8 +50,10 @@ quote: “No two calls are the same.” Captain Jon Musgrave, Station 3
 
 <div class="post-content">
 	<img class="col one" src="{{ site.baseurl }}/img/me_whiteboard.jpg"/>
-	<h1 class="project-description-title col one">What I Learned</h1>
-	<p>I am an extremely organized and time oriented person. For this project we changed direction so late in the game which was extremely nerve wracking for me. I was able to do so, however, because we spoke to so many users and generated that empathy which made us want to create something meaningful. Additionally, I had complete trust in my team that we could actually come up with something better in such a short time frame.</p>
+	<div class="col two">
+		<h1 class="project-description-title">What I Learned</h1>
+		<p>I am an extremely organized and time oriented person. For this project we changed direction so late in the game which was extremely nerve wracking for me. I was able to do so, however, because we spoke to so many users and generated that empathy which made us want to create something meaningful. Additionally, I had complete trust in my team that we could actually come up with something better in such a short time frame.</p>
+	</div>
 </div>
 
 

@@ -4,26 +4,25 @@ title: about
 permalink: /about/
 ---
 
-<img class="col one right" src="/img/prof_pic.jpg">
+<img class="col one right" src="/img/another_whiteboard.jpeg">
 
 <br/>
-Write your biography here. Tell the world about yourself. Link to your favorite <a href="http://reddit.com" target="blank">subreddit</a>. You can put a picture in, too. The code is already in, just name your picture "prof_pic.jpg" and put it in the img folder. 
+I am currently a first year Master’s student in Indiana University’s Human Computer Interaction Design program. Before attending IU, I worked for IBM in marketing and event management at a center called the Institute for Electronic Government. I received my undergraduate from George Washington Unviersity in International Affairs. 
 
-Link to your social media connections, too. This theme is set up to use <a href="http://fortawesome.github.io/Font-Awesome/" target="blank">Font Awesome icons</a>, like the ones below. Add your facebook, twitter, linkedin, or just disable all of them. 
+On the side, I'm a memeber of IU’s School of Informatics and Computing’s PIT (Promoting Inclusivity in Tech) Crew which strives to make the school more inclusive for all students. I am an active but remote member of Hear Me Code, a Washington, DC based group offering beginner free coding classes to women. Through my study of Python I’ve worked on some fun projects around DC Metro data, fantasy basketball and Guy Fieri.
 
 
 <br/>
 <hr/>
 <br/>
 <span class="contacticon center">
-	<a href="mailto:you@example.com"><i class="fa fa-envelope-square"></i></a>
-	<a href="https://github.com" target="_blank"><i class="fa fa-github-square"></i></a>
-	<a href="https://www.linkedin.com" target="_blank"><i class="fa fa-linkedin-square"></i></a>
-	<a href="http://tumblr.com" target="_blank"><i class="fa fa-tumblr-square"></i></a>
-	<a href="https://twitter.com" target="_blank"><i class="fa fa-twitter-square"></i></a>
+	<a href="mailto:maggie.criqui@gmail.com"><i class="fa fa-envelope-square"></i></a>
+	<a href="https://github.com/mcriqui" target="_blank"><i class="fa fa-github-square"></i></a>
+	<a href="https://www.linkedin.com/in/maggie-criqui-4ba46a2a" target="_blank"><i class="fa fa-linkedin-square"></i></a>
+	<a href="https://twitter.com/MaggieCriqui" target="_blank"><i class="fa fa-twitter-square"></i></a>
 </span>
 
 <div class="col three caption">
-	You can even add a little note about which of these is the best way to reach you.
+	The best way to get in touch is through email but I regularaly check the other mediums.
 </div>
 
