@@ -3,58 +3,30 @@ layout: post
 title: Uber
 description: redesigned rating system
 img: /img/Uber.jpg
+quote: "Our ratings system is flawed... our system is so heavily dependent on authentic peer-to-peer experiences"
 ---
-
-<div class="page-content">
-	<h3><em>"This is a really powerful quote we got from our user."</em></h3>
-	<div class="col one">
-		<strong>Team</strong>
-	</div>
-	<div class="col two">
-		<strong>My Role</strong>
-	</div>
-	<div class="col three">
-		<strong>Timeline</strong>
-	</div>
-
-
-</div>
-
-
-<!-- <div class="img_row">
-	<img class="col one" src="{{ site.baseurl }}/img/1.jpg" alt="" title="example image"/>
-	<img class="col one" src="{{ site.baseurl }}/img/2.jpg" alt="" title="example image"/>
-	<img class="col one" src="{{ site.baseurl }}/img/3.jpg" alt="" title="example image"/>
-</div>
-<div class="col three caption">
-	Caption photos easily. On the left, a road goes through a tunnel. Middle, leaves artistically fall in a hipster photoshoot. Right, in another hipster photoshoot, a lumberjack grasps a handful of pine needles.
-</div>
 <div class="img_row">
-	<img class="col three" src="{{ site.baseurl }}/img/5.jpg" alt="" title="example image"/>
+	<img class="col three" src="{{ site.baseurl }}/img/Uber_banner.jpg"/>
 </div>
-<div class="col three caption">
-	This image can also have a caption. It's like magic. 
-</div>
-
-You can also put regular text between your rows of images. Say you wanted to write a little bit about your project before you posted the rest of the images. You describe how you toiled, sweated, *bled* for your project, and then.... you reveal it's glory in the next row of images.
-
-
-<div class="img_row">
-	<img class="col two" src="{{ site.baseurl }}/img/6.jpg" alt="" title="example image"/>
-	<img class="col one" src="{{ site.baseurl }}/img/11.jpg" alt="" title="example image"/>
-</div>
-<div class="col three caption">
-	You can also have artistically styled 2/3 + 1/3 images, like these.
-</div>
-
-
-<br/><br/><br/>
-
-
-The code is simple. Just add a col class to your image, and another class specifying the width: one, two, or three columns wide. Here's the code for the last row of images above: 
-
-	<div class="img_row">
-	  <img class="col two" src="/img/6.jpg"/>
-	  <img class="col one" src="/img/11.jpg"/>
+<div class="post-content">
+	<div class="col one project-subjects">
+		<a class="project-top-header">Team</a>
+		<p>Tevyn Bell<br>Anna-Rose Girvin<br>Sarah Ng</p>
 	</div>
- -->
+	
+	<div class="col one project-subjects">
+		<a class="project-top-header">My Role</a>
+		<p>Team Facilitator<br>Primary Research<br>Idea Generation</p>
+	</div>
+	
+	<div class="col one project-subjects">
+		<a class="project-top-header">Timeline</a>
+		<p>Two Weeks<br>School Project</p>
+	</div>
+	<h4>Problem</h4>
+</div>
+
+	
+
+
+
