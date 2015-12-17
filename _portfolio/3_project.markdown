@@ -6,7 +6,7 @@ img: /img/Watch.jpg
 quote: “No two calls are the same.” Captain Jon Musgrave, Station 3
 ---
 <div class="img_row">
-	<img class="col three" src="{{ site.baseurl }}/img/firefighter_banner.jpg"/>
+	<img class="col three" src="{{ site.baseurl }}/img/Uber_banner.jpg"/>
 </div>
 
 <div class="post-content">
