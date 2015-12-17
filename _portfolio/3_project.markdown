@@ -1,56 +1,63 @@
 ---
 layout: post
-title: Project
-description: a project that redirects to another website
+title: Self Watch
+description: asssitive technology for adults with high functioning autism
 img: /img/Watch.jpg
-redirect: https://unsplash.com
+quote: “No two calls are the same.” Captain Jon Musgrave, Station 3
 ---
-
-Every project has a beautiful feature shocase page. It's easy to include images, in a flexible 3-column grid format. Make your photos 1/3, 2/3, or full width.
-
-To give your project a background in the portfolio page, just add the img tag to the front matter like so: 
-
-	---
-	layout: post
-	title: Project
-	description: a project with a background image
-	img: /img/12.jpg
-	---
-
-
 <div class="img_row">
-	<img class="col one" src="{{ site.baseurl }}/img/1.jpg" alt="" title="example image"/>
-	<img class="col one" src="{{ site.baseurl }}/img/2.jpg" alt="" title="example image"/>
-	<img class="col one" src="{{ site.baseurl }}/img/3.jpg" alt="" title="example image"/>
-</div>
-<div class="col three caption">
-	Caption photos easily. On the left, a road goes through a tunnel. Middle, leaves artistically fall in a hipster photoshoot. Right, in another hipster photoshoot, a lumberjack grasps a handful of pine needles.
-</div>
-<div class="img_row">
-	<img class="col three" src="{{ site.baseurl }}/img/5.jpg" alt="" title="example image"/>
-</div>
-<div class="col three caption">
-	This image can also have a caption. It's like magic. 
+	<img class="col three" src="{{ site.baseurl }}/img/firefighter_banner.jpg"/>
 </div>
 
-You can also put regular text between your rows of images. Say you wanted to write a little bit about your project before you posted the rest of the images. You describe how you toiled, sweated, *bled* for your project, and then.... you reveal it's glory in the next row of images.
-
-
-<div class="img_row">
-	<img class="col two" src="{{ site.baseurl }}/img/6.jpg" alt="" title="example image"/>
-	<img class="col one" src="{{ site.baseurl }}/img/11.jpg" alt="" title="example image"/>
-</div>
-<div class="col three caption">
-	You can also have artistically styled 2/3 + 1/3 images, like these.
-</div>
-
-
-<br/><br/><br/>
-
-
-The code is simple. Just add a col class to your image, and another class specifying the width: one, two, or three columns wide. Here's the code for the last row of images above: 
-
-	<div class="img_row">
-	  <img class="col two" src="/img/6.jpg"/>
-	  <img class="col one" src="/img/11.jpg"/>
+<div class="post-content">
+	<div class="col one project-subjects">
+		<a class="project-top-header">Team</a>
+		<p>Peter Hogaboam<br>Amoli Mehta</p>
 	</div>
+	
+	<div class="col one project-subjects">
+		<a class="project-top-header">My Role</a>
+		<p>Team Facilitator<br>Created Final Deliverable<br>Primary Research</p>
+	</div>
+	
+	<div class="col one project-subjects">
+		<a class="project-top-header">Timeline</a>
+		<p>Three Weeks<br>School Project<br>Based off CHI prompt</p>
+	</div>
+</div>
+
+<div class="post-content col three">
+	<h1 class="project-description-title">Problem</h1>
+	<p>We were tasked with creating an assistive technology for a user group of our choice that is part of the unexotic underclass. We chose to focus on high functioning adults with autism. What we found is that there are many different symptoms of autism and they manifest themselves different in every person, but one commonality is the predisposition to social anxiety disorder. The issues it that these users lack an effective way to manage their social anxiety.</p>
+</div>
+
+<div class="post-content col three">
+	<h1 class="project-description-title">Concept</h1>
+	<p> On way that people deal with social anxiety disorder is to use a reminder card that gives them a calming message or image. The problem is that users have to remember to look at this card. We created a smart watch application that monitors a users heart rate and level of shaking, two main indicators of anxiety. It displays a digital reminder card when their vitals indicate an increased level of anxiety and gently vibrates to prompt the user to look at the card.</p>
+</div>
+
+<div class="img_row">
+	<img class="col one testing" src="{{ site.baseurl }}/img/firefighters_none_selected-01.jpg"/>
+	<img class="col one" src="{{ site.baseurl }}/img/fire_fighters_one_selected-01.jpg"/>
+	<img class="col one" src="{{ site.baseurl }}/img/firefighters_two_selected-01.jpg"/>
+</div>
+
+<div class="post-content col three">
+	<h1 class="project-description-title">What We Did</h1>
+	<p>Learning from a previous project, we did a lot of primary research continually throughout the process to better understand our user. Through our research we quickly found that one area where our users have trouble is dating. High functioning adults with autism have a strong desire to make deep connections and relationships but lack the necessary social skills to due so.<br><br>We generated many ideas and finally decided on an iPad application that would facilitate role playing activities so a high functioning autistic adult could practice their social skills and record the activity to reflect and learn from. This design, however, relied heavily on a facilitator or therapist. We wanted to create something that wasn’t reliant on a clinical setting because role playing activities within this environment already exist.<br><br>With a few days left to go before deadline, we scrapped this idea and went in a new direction. We delved a little deeper and found that our users difficulty with social cues ofter cause anxiety. This was a new area of the problem space where technology could assist our users and so we came to a smart watch application to help manage anxiety for our final design.</p>
+</div>
+
+
+<div class="post-content">
+	<img class="col one" src="{{ site.baseurl }}/img/me_whiteboard.jpg"/>
+	<h1 class="project-description-title col one">What I Learned</h1>
+	<p>I am an extremely organized and time oriented person. For this project we changed direction so late in the game which was extremely nerve wracking for me. I was able to do so, however, because we spoke to so many users and generated that empathy which made us want to create something meaningful. Additionally, I had complete trust in my team that we could actually come up with something better in such a short time frame.</p>
+</div>
+
+
+
+
+	
+
+
+

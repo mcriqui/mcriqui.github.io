@@ -36,7 +36,7 @@ quote: "Our ratings system is flawed... our system is so heavily dependent on au
 	<p>Our design aims to maintain the high perceived and actual quality of drivers. We did this through providing a greater distinction in ride quality. giving directed feedback to motivate higher quality and relieving the weight of a single scale.</p>
 </div>
 
-<div class="img_row">
+<div class="post-content">
 	<img class="col one" src="{{ site.baseurl }}/img/Uber_Sketch1-01.jpg"/>
 	<img class="col one" src="{{ site.baseurl }}/img/3_Uber_Sketch-01-01.jpg"/>
 	<img class="col one" src="{{ site.baseurl }}/img/2_Uber_Sketch-01.jpg"/>

@@ -1,55 +1,65 @@
 ---
 layout: post
 title: Firefighters
-description: right information at the right time
+description: right information at right time
 img: 
+quote: “No two calls are the same.” Captain Jon Musgrave, Station 3
 ---
-
-Every project has a beautiful feature shocase page. It's easy to include images, in a flexible 3-column grid format. Make your photos 1/3, 2/3, or full width.
-
-To give your project a background in the portfolio page, just add the img tag to the front matter like so: 
-
-	---
-	layout: post
-	title: Project
-	description: a project with a background image
-	img: /img/12.jpg
-	---
-
-
 <div class="img_row">
-	<img class="col one" src="{{ site.baseurl }}/img/1.jpg" alt="" title="example image"/>
-	<img class="col one" src="{{ site.baseurl }}/img/2.jpg" alt="" title="example image"/>
-	<img class="col one" src="{{ site.baseurl }}/img/3.jpg" alt="" title="example image"/>
-</div>
-<div class="col three caption">
-	Caption photos easily. On the left, a road goes through a tunnel. Middle, leaves artistically fall in a hipster photoshoot. Right, in another hipster photoshoot, a lumberjack grasps a handful of pine needles.
-</div>
-<div class="img_row">
-	<img class="col three" src="{{ site.baseurl }}/img/5.jpg" alt="" title="example image"/>
-</div>
-<div class="col three caption">
-	This image can also have a caption. It's like magic. 
+	<img class="col three" src="{{ site.baseurl }}/img/firefighter_banner.jpg"/>
 </div>
 
-You can also put regular text between your rows of images. Say you wanted to write a little bit about your project before you posted the rest of the images. You describe how you toiled, sweated, *bled* for your project, and then.... you reveal it's glory in the next row of images.
-
-
-<div class="img_row">
-	<img class="col two" src="{{ site.baseurl }}/img/6.jpg" alt="" title="example image"/>
-	<img class="col one" src="{{ site.baseurl }}/img/11.jpg" alt="" title="example image"/>
-</div>
-<div class="col three caption">
-	You can also have artistically styled 2/3 + 1/3 images, like these.
-</div>
-
-
-<br/><br/><br/>
-
-
-The code is simple. Just add a col class to your image, and another class specifying the width: one, two, or three columns wide. Here's the code for the last row of images above: 
-
-	<div class="img_row">
-	  <img class="col two" src="/img/6.jpg"/>
-	  <img class="col one" src="/img/11.jpg"/>
+<div class="post-content">
+	<div class="col one project-subjects">
+		<a class="project-top-header">Team</a>
+		<p>Evan Russell<br>Rishabh Singh<br>Fuchang Yang</p>
 	</div>
+	
+	<div class="col one project-subjects">
+		<a class="project-top-header">My Role</a>
+		<p>Team Facilitator<br>Created Medium Post<br>Usability Testing</p>
+	</div>
+	
+	<div class="col one project-subjects">
+		<a class="project-top-header">Timeline</a>
+		<p>Three Weeks<br>School Project</p>
+	</div>
+</div>
+
+<div class="post-content col three">
+	<h1 class="project-description-title">Problem</h1>
+	<p>Redesign the Mobile Data Terminal System, a laptop mounted in the passenger seat of the firetruck. Using this device, give firefighters the right information at the right time.  We were further constrained by the systems difficulty of use during a bumpy, fast paced ride and limited budget for technology. </p>
+</div>
+
+<div class="post-content col three">
+	<h1 class="project-description-title">Concept</h1>
+	<p>We focused on giving firefighters the relevant information they need, when they actually need it. When firefighters arrive on scene, their instinct takes over. As such, we focused on preparing firefighters with accessible and relevant information while they are en route to the scene. In order to do so, we had to make the laptop easy while the truck is in motion. To do so, we broke down the keyboard into four quadrants making it easy for the user to quickly and efficiently toggle information on and off the screen. </p>
+</div>
+
+<div class="img_row">
+	<img class="col one testing" src="{{ site.baseurl }}/img/firefighters_none_selected-01.jpg"/>
+	<img class="col one" src="{{ site.baseurl }}/img/fire_fighters_one_selected-01.jpg"/>
+	<img class="col one" src="{{ site.baseurl }}/img/firefighters_two_selected-01.jpg"/>
+</div>
+
+<div class="post-content col three">
+	<h1 class="project-description-title">What We Did</h1>
+	<p>To begin, we went to a local Bloomington firehouse and spent over 2 hours talking to firefighters about their work and lives. What started as a conversation about their desire for Iron Man suits and Google Glasses turned into a rigorously honest conversation about themselves.<br><br>From this research we narrowed down the problem and sketched continually. We sketched and we sketched, but couldn’t get it. Finally, we realized that we were iterating on the computer interface but what was really important was how firefighters use and interact with the system. Firefighters use the computer driving at high speeds in a huge truck so how feasible is it that they can use a track pad and control small buttons the screen?<br><br>From this insight, we iterated on the keyboard and how the information is presented. Of course the information that’s displayed matters but they already have all the information. What we were able to design and what was necessary was how they can access that information more effectively. </p>
+</div>
+
+
+	
+
+<div class="post-content">
+	<img class="col two testing" src="{{ site.baseurl }}/img/firefighter_testing.jpg"/>
+	<h1 class="project-description-title col one">What I Learned</h1>
+	<p>For this project we began framing the problem and iterating after we did the research. I learned that it’s important to start your process even before the research. Additionally, research should take place throughout the entire process, not just in the beginning.</p>
+</div>
+
+
+
+
+	
+
+
+
