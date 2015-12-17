@@ -36,7 +36,7 @@ quote: “No two calls are the same.” Captain Jon Musgrave, Station 3
 	<p>We focused on giving firefighters the relevant information they need, when they actually need it. When firefighters arrive on scene, their instinct takes over. As such, we focused on preparing firefighters with accessible and relevant information while they are en route to the scene. In order to do so, we had to make the laptop easy while the truck is in motion. To do so, we broke down the keyboard into four quadrants making it easy for the user to quickly and efficiently toggle information on and off the screen. </p>
 </div>
 
-<div class="img_row">
+<div class="post-content">
 	<img class="col one testing" src="{{ site.baseurl }}/img/firefighters_none_selected-01.jpg"/>
 	<img class="col one" src="{{ site.baseurl }}/img/fire_fighters_one_selected-01.jpg"/>
 	<img class="col one" src="{{ site.baseurl }}/img/firefighters_two_selected-01.jpg"/>

@@ -36,10 +36,10 @@ quote: “No two calls are the same.” Captain Jon Musgrave, Station 3
 	<p> On way that people deal with social anxiety disorder is to use a reminder card that gives them a calming message or image. The problem is that users have to remember to look at this card. We created a smart watch application that monitors a users heart rate and level of shaking, two main indicators of anxiety. It displays a digital reminder card when their vitals indicate an increased level of anxiety and gently vibrates to prompt the user to look at the card.</p>
 </div>
 
-<div class="img_row">
-	<img class="col one testing" src="{{ site.baseurl }}/img/firefighters_none_selected-01.jpg"/>
-	<img class="col one" src="{{ site.baseurl }}/img/fire_fighters_one_selected-01.jpg"/>
-	<img class="col one" src="{{ site.baseurl }}/img/firefighters_two_selected-01.jpg"/>
+<div class="post-content">
+	<img class="col one testing" src="{{ site.baseurl }}/img/2smartwatch.jpg"/>
+	<img class="col one" src="{{ site.baseurl }}/img/1smartwatch.jpg"/>
+	<img class="col one" src="{{ site.baseurl }}/img/3smartwatch.jpg"/>
 </div>
 
 <div class="post-content col three">
