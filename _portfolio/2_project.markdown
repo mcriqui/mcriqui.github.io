@@ -38,8 +38,11 @@ quote: “No two calls are the same.” Captain Jon Musgrave, Station 3
 
 <div class="post-content">
 	<img class="col three" src="{{ site.baseurl }}/img/firefighters_none_selected-01.jpg"/>
+	<div class="col three caption">The initial screen the user sees when she enters the truck.</div>
 	<img class="col three" src="{{ site.baseurl }}/img/fire_fighters_one_selected-01.jpg"/>
+	<div class="col three caption">To select a category the user taps the corresponding quadrant of the keyboard.</div>
 	<img class="col three" src="{{ site.baseurl }}/img/firefighters_two_selected-01.jpg"/>
+	<div class="col three caption">The layout is responsive so the user can see multiple categories at once.</div>
 </div>
 
 <div class="post-content">
