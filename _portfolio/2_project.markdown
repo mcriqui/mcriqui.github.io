@@ -37,24 +37,28 @@ quote: “No two calls are the same.” Captain Jon Musgrave, Station 3
 </div>
 
 <div class="post-content">
-	<img class="col one testing" src="{{ site.baseurl }}/img/firefighters_none_selected-01.jpg"/>
-	<img class="col one" src="{{ site.baseurl }}/img/fire_fighters_one_selected-01.jpg"/>
-	<img class="col one" src="{{ site.baseurl }}/img/firefighters_two_selected-01.jpg"/>
+	<img class="col three" src="{{ site.baseurl }}/img/firefighters_none_selected-01.jpg"/>
+	<img class="col three" src="{{ site.baseurl }}/img/fire_fighters_one_selected-01.jpg"/>
+	<img class="col three" src="{{ site.baseurl }}/img/firefighters_two_selected-01.jpg"/>
 </div>
-
-<div class="post-content col three">
-	<h1 class="project-description-title">What We Did</h1>
-	<p>To begin, we went to a local Bloomington firehouse and spent over 2 hours talking to firefighters about their work and lives. What started as a conversation about their desire for Iron Man suits and Google Glasses turned into a rigorously honest conversation about themselves.<br><br>From this research we narrowed down the problem and sketched continually. We sketched and we sketched, but couldn’t get it. Finally, we realized that we were iterating on the computer interface but what was really important was how firefighters use and interact with the system. Firefighters use the computer driving at high speeds in a huge truck so how feasible is it that they can use a track pad and control small buttons the screen?<br><br>From this insight, we iterated on the keyboard and how the information is presented. Of course the information that’s displayed matters but they already have all the information. What we were able to design and what was necessary was how they can access that information more effectively. </p>
-</div>
-
-
-	
 
 <div class="post-content">
-	<img class="col two testing" src="{{ site.baseurl }}/img/firefighter_testing.jpg"/>
-	<h1 class="project-description-title col one">What I Learned</h1>
-	<p>For this project we began framing the problem and iterating after we did the research. I learned that it’s important to start your process even before the research. Additionally, research should take place throughout the entire process, not just in the beginning.</p>
+	<h1 class="project-description-title col one">What We Did</h1>
+	<p class="col three">To begin, we went to a local Bloomington firehouse and spent over 2 hours talking to firefighters about their work and lives. What started as a conversation about their desire for Iron Man suits and Google Glasses turned into a rigorously honest conversation about themselves.<br><br>From this research we narrowed down the problem and sketched continually. We sketched and we sketched, but couldn’t get it. Finally, we realized that we were iterating on the computer interface but what was really important was how firefighters use and interact with the system. Firefighters use the computer driving at high speeds in a huge truck so how feasible is it that they can use a track pad and control small buttons on the screen?<br><br>From this insight, we iterated on the keyboard and how the information is presented. Of course the information that’s displayed matters but they already have all the information. What we were able to design and what was necessary was how they can access that information more effectively.</p>
 </div>
+
+<div class="post-content">
+	<img class="col two" src="/img/firefighter_testing.jpg">
+	
+	<div class="col one">
+		<h1 class="project-description-title">What I Learned</h1>
+		<p>For this project we began framing the problem and iterating after we did the research. I learned that it’s important to start your process even before the research. Additionally, research should take place throughout the entire process, not just in the beginning.</p>
+	</div>
+</div>
+		
+
+
+
 
 
 
