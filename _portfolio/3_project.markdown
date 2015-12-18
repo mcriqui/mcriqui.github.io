@@ -22,13 +22,13 @@ quote: Symptoms vary but mildly autistic adults appreciate consistency and have 
 	
 	<div class="col one project-subjects">
 		<a class="project-top-header">Timeline</a>
-		<p>Three Weeks<br>School Project<br>Based off CHI prompt</p>
+		<p>Three Weeks<br>School Project<br>Based off CHI Prompt</p>
 	</div>
 </div>
 
 <div class="post-content col three">
 	<h1 class="project-description-title">Problem</h1>
-	<p>We were tasked with creating an assistive technology for a user group of our choice that is part of the unexotic underclass. We chose to focus on high functioning adults with autism. What we found is that there are many numerous symptoms of autism and they manifest themselves differently in every person. One commonality is that our users' difficulty  undestanding social cues can lead to social anxiety and they lack an effective way to manage their social anxiety.</p>
+	<p>We were tasked with creating an assistive technology for a user group of our choice that is part of the unexotic underclass. We chose to focus on high functioning adults with autism. We found that there are many symptoms of autism and the symptoms manifest themselves differently in every person. One commonality is that our users' difficulty  undestanding social cues can lead to social anxiety and they lack an effective way to manage that anxiety.</p>
 </div>
 
 <div class="post-content col three">
@@ -45,7 +45,7 @@ quote: Symptoms vary but mildly autistic adults appreciate consistency and have 
 
 <div class="post-content col three">
 	<h1 class="project-description-title">What We Did</h1>
-	<p>Learning from a previous project, we did a lot of primary research continually throughout the process to better understand our users. Through our research we quickly found that one area where our users have trouble is dating. High functioning adults with autism have a strong desire to make deep connections and relationships but lack the necessary social skills to due so.<br><br>We generated many ideas and finally decided on an iPad application that would facilitate role playing activities so a high functioning autistic adult could practice their social skills and record the activity to reflect and learn from. This design, however, relied heavily on a facilitator or therapist. We wanted to create something that wasn’t reliant on a clinical setting because role playing activities within this environment already exist.<br><br>With a few days left to go before deadline, we scrapped this idea and went in a new direction. We delved a little deeper and found that our users' difficulty with social cues often causes anxiety. This was a new area of the problem space where technology could assist our users and so we came to a smart watch application to help manage anxiety for our final design.</p>
+	<p>Learning from a previous project, we did a lot of primary research throughout the process to better understand our users. Through our research we quickly found that one area where our users have trouble is dating. High functioning adults with autism have a strong desire to make deep connections and relationships but lack the necessary social skills to do so.<br><br>We generated many ideas and finally decided on an iPad application that would facilitate role playing activities so a high functioning autistic adult could practice their social skills and record the activity to reflect and learn from. This design, however, relied heavily on a facilitator or therapist. We wanted to create something that wasn’t reliant on a clinical setting because role playing activities within this environment already exist.<br><br>With a few days left to go before deadline, we scrapped this idea and went in a new direction. We delved a little deeper and found that our users' difficulty with social cues often causes anxiety. This was a new area of the problem space where technology could assist our users and so we came to a smart watch application to help manage anxiety for our final design.</p>
 </div>
 
 

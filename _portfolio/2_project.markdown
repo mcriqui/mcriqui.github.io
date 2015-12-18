@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Firefighters
-description: right information at right time
+description: right information at the right time
 img: 
 quote: “No two calls are the same.” Captain Jon Musgrave, Station 3
 ---
@@ -33,7 +33,7 @@ quote: “No two calls are the same.” Captain Jon Musgrave, Station 3
 
 <div class="post-content col three">
 	<h1 class="project-description-title">Concept</h1>
-	<p>We focused on giving firefighters the relevant information they need, when they actually need it. When firefighters arrive on scene, their instinct takes over. As such, we focused on preparing firefighters with accessible and relevant information while they are en route to the scene. In order to do so, we had to make the laptop easy while the truck is in motion. To do so, we broke down the keyboard into four quadrants making it easy for the user to quickly and efficiently toggle information on and off the screen. </p>
+	<p>We focused on giving firefighters the relevant information they need, when they actually need it. When firefighters arrive on scene, their instinct takes over. As such, we focused on preparing firefighters with accessible and relevant information while they are en route to the scene. In order to do so, we had to make the laptop easy to use while the truck is in motion. To do so, we broke down the keyboard into four quadrants making it easy for the user to quickly and efficiently toggle information on and off the screen. </p>
 </div>
 
 <div class="post-content">
@@ -47,7 +47,7 @@ quote: “No two calls are the same.” Captain Jon Musgrave, Station 3
 
 <div class="post-content">
 	<h1 class="project-description-title col one">What We Did</h1>
-	<p class="col three">To begin, we went to a local Bloomington firehouse and spent over 2 hours talking to firefighters about their work and lives. What started as a conversation about their desire for Iron Man suits and Google Glasses turned into a rigorously honest conversation about themselves.<br><br>From this research we narrowed down the problem and sketched continually. We sketched and we sketched, but couldn’t get it. Finally, we realized that we were iterating on the computer interface but what was really important was how firefighters use and interact with the system. Firefighters use the computer driving at high speeds in a huge truck so how feasible is it that they can use a track pad and control small buttons on the screen?<br><br>From this insight, we iterated on the keyboard and how the information is presented. Of course the information that’s displayed matters but they already have all the information. What we were able to design and what was necessary was how they can access that information more effectively.</p>
+	<p class="col three">To begin, we went to a local Bloomington firehouse and spent over two hours talking to firefighters about their work and lives. What started as a conversation about their desire for Iron Man suits and Google Glasses turned into a rigorously honest conversation about themselves.<br><br>From this research we narrowed down the problem and sketched continually. We sketched and we sketched, but couldn’t get it. Finally, we realized that we were iterating on the computer interface but what was really important was how firefighters use and interact with the system. Firefighters use the computer driving at high speeds in a huge truck so how feasible is it that they can use a track pad and control small buttons on the screen?<br><br>From this insight, we iterated on the keyboard and how the information is presented. Of course the information that’s displayed matters but they already have all the information at their disposal. What we were able to design and what was necessary was how they can access that information more effectively.</p>
 </div>
 
 <div class="post-content">
