@@ -3,7 +3,7 @@ layout: post
 title: Uber
 description: redesigned rating system
 img: /img/Uber.jpg
-quote: "Our ratings system is flawed... our system is so heavily dependent on authentic peer-to-peer experiences"
+quote: "It is undeniable that Uber has distrupted the taxi market with the rideshare movement."
 ---
 <div class="img_row">
 	<img class="col three" src="{{ site.baseurl }}/img/Uber_banner.jpg"/>
@@ -40,7 +40,7 @@ quote: "Our ratings system is flawed... our system is so heavily dependent on au
 	<img class="col one" src="{{ site.baseurl }}/img/1Uber-01.jpg"/>
 	<img class="col one" src="{{ site.baseurl }}/img/3_Uber_Sketch-01-01.jpg"/>
 	<img class="col one" src="{{ site.baseurl }}/img/2_Uber_Sketch-01.jpg"/>
-	<div class="col three caption"></div>
+	<div class="col three caption">Three sliding scales allows the user to better articulate her rating.</div>
 </div>
 
 <div class="post-content col three">

@@ -40,6 +40,7 @@ quote: Symptoms vary but mildly autistic adults appreciate consistency and have 
 	<img class="col one testing" src="{{ site.baseurl }}/img/2smartwatch.jpg"/>
 	<img class="col one" src="{{ site.baseurl }}/img/1smartwatch.jpg"/>
 	<img class="col one" src="{{ site.baseurl }}/img/3smartwatch.jpg"/>
+	<div class="col three caption">When the user has an elevated heart rate or increased amount of shaking, the device will slowly vibrate, prompting the user to look at her digital reminder card.</div>
 </div>
 
 <div class="post-content col three">
