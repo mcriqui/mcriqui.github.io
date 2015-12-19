@@ -22,7 +22,5 @@ On the side, I'm a memeber of IU’s <a class="homepage_keywords">PIT (Promoting
 	<a href="https://twitter.com/MaggieCriqui" target="_blank"><i class="fa fa-twitter-square"></i></a>
 </span>
 
-<div class="col three caption">
-	The best way to get in touch is through email but I regularaly check the other mediums.
-</div>
+
 
