@@ -5,6 +5,6 @@ permalink: /resume/
 ---
 
 <div class="post-content">
-	<a href="https://iu.box.com/s/4d2agfydxtxs96vdksurgsh07i21ge8m" target="_blank"><img src="/img/MCriqui_Resume.jpg" class="col three"></a>
+	<a href="https://www.dropbox.com/s/fg84fsa9q1lf023/MCriqui_Resume.pdf?dl=0" target="_blank"><img src="/img/MCriqui_Resume.jpg" class="col three"></a>
 </div>
 
