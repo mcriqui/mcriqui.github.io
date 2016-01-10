@@ -28,7 +28,7 @@ quote: “No two calls are the same.” Captain Jon Musgrave, Station 3
 
 <div class="post-content col three">
 	<h1 class="project-description-title">Problem</h1>
-	<p>Redesign the Mobile Data Terminal System, a laptop mounted in the passenger seat of the firetruck. Using this device, give firefighters the right information at the right time.  We were further constrained by the systems difficulty of use during a bumpy, fast paced ride and limited budget for technology. </p>
+	<p>The Mobile Data Terminal System, a laptop mounted in the passenger seat of the firetruck, has the potential to help firefighters but is insufficiently used. Using this device, we had to give firefighters the right information at the right time.  We were further constrained by the systems difficulty of use during a bumpy, fast paced ride and limited budget for technology.</p>
 </div>
 
 <div class="post-content col three">
@@ -38,17 +38,22 @@ quote: “No two calls are the same.” Captain Jon Musgrave, Station 3
 
 <div class="post-content">
 	<img class="col three" src="{{ site.baseurl }}/img/firefighters_none_selected-01.jpg"/>
-	<div class="col three caption">The initial screen the user sees when she enters the truck.</div>
+	<div class="col three caption">The initial screen the user sees when she enters the truck.</p>
 	<img class="col three" src="{{ site.baseurl }}/img/fire_fighters_one_selected-01.jpg"/>
 	<div class="col three caption">To select a category the user taps the corresponding quadrant of the keyboard.</div>
 	<img class="col three" src="{{ site.baseurl }}/img/firefighters_two_selected-01.jpg"/>
 	<div class="col three caption">The layout is responsive so the user can see multiple categories at once.</div>
 </div>
 
-<div class="post-content">
+<div class="post-content welcome_message">
 	<h1 class="project-description-title col one">What We Did</h1>
-	<p class="col three">To begin, we went to a local Bloomington firehouse and spent over two hours talking to firefighters about their work and lives. What started as a conversation about their desire for Iron Man suits and Google Glasses turned into a rigorously honest conversation about themselves.<br><br>From this research we narrowed down the problem and sketched continually. We sketched and we sketched, but couldn’t get it. Finally, we realized that we were iterating on the computer interface but what was really important was how firefighters use and interact with the system. Firefighters use the computer driving at high speeds in a huge truck so how feasible is it that they can use a track pad and control small buttons on the screen?<br><br>From this insight, we iterated on the keyboard and how the information is presented. Of course the information that’s displayed matters but they already have all the information at their disposal. What we were able to design and what was necessary was how they can access that information more effectively.</p>
+	
+	<img class="col three testing" src="{{ site.baseurl }}/img/fishbowl.jpg"/>
+	
+	<p class="col three">To begin, we went to a local Bloomington firehouse and spent over two hours talking to firefighters about their work and lives. What started as a conversation about their desire for Iron Man suits and Google Glasses eventually turned into a rigorously honest conversation about themselves.<br><br>From this research we narrowed down the problem and sketched continually. We sketched and we sketched, but couldn’t get it. Finally, we realized that we were iterating on the computer interface but what was really important was how firefighters use and interact with the system. Firefighters use the computer driving at high speeds in a huge truck so how feasible is it that they can use a track pad and control small buttons on the screen?<br><br>From this insight, we iterated on the keyboard and how the information is presented. Of course the information that’s displayed matters but they already have all the information at their disposal. What we were able to design and what was necessary to design was how they can easily access that information.</p>
 </div>
+
+
 
 <div class="post-content">
 	<img class="col two" src="/img/firefighter_testing.jpg">
