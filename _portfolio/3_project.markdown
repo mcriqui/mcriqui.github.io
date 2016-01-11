@@ -45,6 +45,13 @@ quote: Symptoms vary but mildly autistic adults appreciate consistency and have 
 
 <div class="post-content col three">
 	<h1 class="project-description-title">What We Did</h1>
+	
+	<div class="img_row">
+		<img class="col one" src="{{ site.baseurl }}/img/first_watch.jpg"/>
+		<img class="col two" src="{{ site.baseurl }}/img/second_watch.jpg"/>
+		<!-- <img class="col one" src="{{ site.baseurl }}/img/third_watch.jpg"/> -->
+	</div>
+
 	<p>Learning from a previous project, we did a lot of primary research throughout the process to better understand our users. Through our research we quickly found that one area where our users have trouble is dating. High functioning adults with autism have a strong desire to make deep connections and relationships but lack the necessary social skills to do so.<br><br>We generated many ideas and finally decided on an iPad application that would facilitate role playing activities so a high functioning autistic adult could practice their social skills and record the activity to reflect and learn from. This design, however, relied heavily on a facilitator or therapist. We wanted to create something that wasn’t reliant on a clinical setting because role playing activities within this environment already exist.<br><br>With a few days left to go before deadline, we scrapped this idea and went in a new direction. We delved a little deeper and found that our users' difficulty with social cues often causes anxiety. This was a new area of the problem space where technology could assist our users and so we came to a smart watch application to help manage anxiety for our final design.</p>
 </div>
 
