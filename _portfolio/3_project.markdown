@@ -60,7 +60,7 @@ quote: Symptoms vary but mildly autistic adults appreciate consistency and have 
 	<img class="col one" src="{{ site.baseurl }}/img/me_whiteboard.jpg"/>
 	<div class="col two">
 		<h1 class="project-description-title">What I Learned</h1>
-		<p>For this project we changed direction so late in the game. As an extremely organized and time oriented person making this change was extremely nerve wracking. I was able to do so, however, because we spoke to so many users and generated that empathy which made us want to create something meaningful. Additionally, I had complete trust in my team that we could actually come up with something better in such a short time frame.</p>
+		<p>For this project we changed direction so late in the game. As an organized and time oriented person making this change was extremely nerve wracking. I was able to do so, however, because we spoke to so many users and generated that empathy which made us want to create something meaningful. Additionally, I had complete trust in my team that we could actually come up with something better in such a short time frame.</p>
 	</div>
 </div>
 
