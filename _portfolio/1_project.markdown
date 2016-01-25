@@ -2,7 +2,7 @@
 layout: post
 title: Uber
 description: rethinking a flawed rating system
-img: /img/Uber.jpg
+img: /img/Uber_home.jpg
 quote: "It is undeniable that Uber has distrupted the taxi market with the rideshare movement."
 ---
 <div class="img_row">

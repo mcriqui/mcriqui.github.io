@@ -2,7 +2,7 @@
 layout: post
 title: Firefighters
 description: right information at the right time
-img: /img/fire_cover.jpg
+img: /img/updated_fire.jpg
 quote: “No two calls are the same.” Captain Jon Musgrave, Station 3
 ---
 <div class="img_row">
