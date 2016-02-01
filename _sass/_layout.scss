@@ -197,7 +197,9 @@ clear: both;
 .project {
 width: 33.33%;
 height: 250px;
-float: left;
+float: left
+
+;
 vertical-align: middle;
 box-sizing: border-box;
 padding: 10px;
@@ -323,7 +325,37 @@ text-align: center !important
 }
 
 .nav_name{
+    color: #FF3636
+}
+
+homepage_paragraph{
+    padding-top: 2em
+}
+
+side_projects_header{
     color: #FF3636 !important;
-    text-align: left
+    padding-top: 1em
+}
+
+side-project-title{
+    padding-top:12em !important
+}
+
+.ddd_project_site{
+    color: #FF3636;
+}
+
+.ddd_align{
+    text-align: right !important;
+}
+.water_bottle {
+font-size: 60px;
+display:block;
+margin: 10px;
+background-color: #777777
+}
+
+.top_padding{
+    padding-top: 2em
 }
 
