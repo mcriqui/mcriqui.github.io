@@ -21,9 +21,16 @@ quote: “No two calls are the same.” Captain Jon Musgrave, Station 3
 	</div>
 	
 	<div class="col one project-subjects">
-		<a class="project-top-header">Timeline</a>
-		<p>Three Weeks<br>School Project</p>
+		<a class="project-top-header">Context</a>
+		<p>Three Weeks<br>Class Project,<br>Interaction Design Principles</p>
 	</div>
+</div>
+
+
+
+<div>
+	<h1 class="project-description-title medium">Final Deliverable</h1>
+	<p>View our final <a href="https://medium.com/interaction-design-practice/bloomington-firefighter-tool-design-49cf68e03492#.8a6nfmknv"><strong>Medium blog post here.</strong></a> I created this blog post witih input and edits from my team members.</p>
 </div>
 
 <div class="post-content col three">

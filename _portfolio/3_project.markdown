@@ -21,8 +21,8 @@ quote: "It is undeniable that Uber has distrupted the taxi market with the rides
 	</div>
 	
 	<div class="col one project-subjects">
-		<a class="project-top-header">Timeline</a>
-		<p>Two Weeks<br>School Project</p>
+		<a class="project-top-header">Context</a>
+		<p>Two Weeks<br>Class Project,<br>Interaction Design Principles</p>
 	</div>
 </div>
 
