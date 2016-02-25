@@ -26,6 +26,11 @@ quote: Symptoms vary but mildly autistic adults appreciate consistency and have 
 	</div>
 </div>
 
+<div>
+	<h1 class="project-description-title">Final Deliverable</h1>
+	<p>View our final <a href="https://iu.box.com/s/ajpuk7z2hcbxg1sek1ugmk4fc0ctj99v"><strong>slide deck here.</strong></a></p>
+</div>
+
 <div class="post-content col three">
 	<h1 class="project-description-title">Problem</h1>
 	<p>We were tasked with creating an assistive technology for a user group of our choice that is part of the unexotic underclass. We chose to focus on high functioning adults with autism. We found that there are many symptoms of autism and the symptoms manifest themselves differently in every person. One commonality is that our users' difficulty  undestanding social cues can lead to social anxiety and they lack an effective way to manage that anxiety.</p>
