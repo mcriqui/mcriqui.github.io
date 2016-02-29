@@ -21,8 +21,8 @@ quote: Symptoms vary but mildly autistic adults appreciate consistency and have 
 	</div>
 	
 	<div class="col one project-subjects">
-		<a class="project-top-header">Timeline</a>
-		<p>Three Weeks<br>School Project<br>Based off CHI Prompt</p>
+		<a class="project-top-header">Context</a>
+		<p>Three Weeks<br>Class Project<br>Based off CHI Prompt</p>
 	</div>
 </div>
 
