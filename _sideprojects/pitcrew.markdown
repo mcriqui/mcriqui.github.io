@@ -2,20 +2,13 @@
 layout: post
 title: Promoting Inclusivity in Tech
 description: diversity and inclusion workshop trainer
-img: /img/burger.jpeg
+img: /img/code.jpeg
 quote: Working to make IU's School of Computing and Informatics more inclusive for every student.
 ---
 
+<p>Promoting Inclusivity in Technology (PIT) is a student-led organization whose goal is to promote inclusivity at the School of Informatics and Computing (SoIC) at Indiana University. PIT creates and delivers workshops to students, Associate Instructors and staff. These workshops discuss the topics of uncovering unconscious bias, micro-aggressions and micro-inequities. Through these workshops we equip participants with the knowledge and tools to make the school a more inclusive environment.</p>
 
-<h1 class="project-description-title">Yelp Analysis of Restaurants on Diner's Drive-Ins Dives</h1>
-
-<p>Did you know that the average Yelp rating of a restaurant that Guy Fieri vists on his show Diner's, Drive-Ins and Dives is 3.80? If you haven't visited my project's website about this subject, I bet you didn't!<p> 
-
-
-<div class="img_row ddd_align">
-	<p class="col one">Using Python, I accessed all of the Yelp ratings for the restaurants on Guy's show with the Yelp API. I then color coded them according to the number of stars and mapped them using Githubs mapping geoJSON feature.<br><br><a class="ddd_project_site" href="http://maggiecriqui.com/yelp-DDD/"><strong> Check it out here!</strong></a></p>
-	<img class="col two" src="{{ site.baseurl }}/img/ddd_image.jpg"/>
-</div>
+<p>Additionally, the National Center for Women in Technology <a href="http://www.soic.indiana.edu/news/story.html?story=SoIC-receives-Student-Seed-Fund-gift-promote-women-technology"><strong>recently awarded us a $15,000 Trailblazer Award</strong> </a>with Women in Computing, another student run organization. With this grant, we will study the role of male advocates for gender equity in academia and host a university wide campaign to promote male advocates. I am personally co-managing a competition for students to share their stories about gender equity.</p>
 
 
 

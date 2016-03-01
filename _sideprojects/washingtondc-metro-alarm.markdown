@@ -2,7 +2,7 @@
 layout: post
 title: DC Metro Alarm
 description: raspberry pi alarm clock
-img: /img/code.jpeg
+img: /img/train.jpg
 quote: In learning Python and other programming languages, I've worked on some fun side projects.
 ---
 
