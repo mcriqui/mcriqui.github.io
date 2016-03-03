@@ -4,7 +4,7 @@ title: portfolio
 permalink: /portfolio/
 ---
 
-<p><em>School Projects</em></p>
+<p><em>Academic Projects</em></p>
 
 {% for project in site.portfolio %}
 
