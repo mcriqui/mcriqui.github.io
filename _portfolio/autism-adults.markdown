@@ -74,9 +74,9 @@ quote: Symptoms vary but mildly autistic adults appreciate consistency and have 
 <div class="post-content col three iterating">
 	<h1 class="project-description-title">Our New Direction</h1>
 	<div class>
-		<img class="col one" src="{{ site.baseurl }}/img/watch_sketch1.jpg"/>
-		<img class="col one" src="{{ site.baseurl }}/img/watch_sketch2.jpg"/>
-		<img class="col one" src="{{ site.baseurl }}/img/watch_sketch3.jpg"/>
+		<img class="col one" src="{{ site.baseurl }}/img/watch_sketch1.JPG"/>
+		<img class="col one" src="{{ site.baseurl }}/img/watch_sketch2.JPG"/>
+		<img class="col one" src="{{ site.baseurl }}/img/watch_sketch3.JPG"/>
 	</div>
 	<p>With a few days left to go before deadline, we scrapped this idea and went in a new direction. We delved a little deeper and found that our users' difficulty with social cues often causes anxiety. This was a new area of the problem space where technology could assist our users and so we came to a smart watch application to help manage anxiety for our final design.</p>
 </div>
