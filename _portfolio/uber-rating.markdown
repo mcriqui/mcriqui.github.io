@@ -44,12 +44,27 @@ quote: "It is undeniable that Uber has distrupted the taxi market with the rides
 </div>
 
 <div class="col three">
-	<h1 class="project-description-title">What We Did</h1>
-	<p>For this project we concentrated on defining the problem first and then sketching and generating ideas to help solve that problem.  Since the prompt was about rating scales, we also did much secondary research simultaneously on rating scales to get a better idea of which scales are most effective and why.<br><br>This team had no shortage of ideas but we had no way of evaluating which was best. The key insight for us was when we found Uber’s company goals as stated by their data evangelist. This helped us redefine our problem space to match the priorities of the Uber company. From this key insight we were able to align our design with the needs of our (fictional) client.<br><br>Additionally, we were constrained by the small size of the smartphone interface. The key to our design is the vertical scales because it creates larger scales than horizontal ones. We had to make a tradeoff with how easily the user can read the three categories, but it was a necessary one. The vertical scales ties directly back to our problem statement.</p>
+	<h1 class="project-description-title">Defining the Problem</h1>
+	<p>For this project we concentrated on defining the problem first and then sketching and generating ideas to help solve that problem.  Since the prompt was about rating scales, we also did much secondary research simultaneously on rating scales to get a better idea of which scales are most effective and why.<p>
+	<div class="img_row">
+		<img class="col three iterating" src="{{ site.baseurl }}/img/defining-the-problem-again-3.jpg"/>
+	</div>
+</div>
+
+<div class="col three">
+	<h1 class="project-description-title">Evaluating Our Sketches</h1>
+	<img class="col one" src="{{ site.baseurl }}/img/so-many-sketches.jpg"/>
+	<p class="col two">This team had no shortage of ideas but we had no way of evaluating which was best. The key insight for us was when we found Uber’s company goals as stated by their data evangelist. This helped us redefine our problem space to match the priorities of the Uber company. From this key insight we were able to align our design with the needs of our (fictional) client.</p>
+	</div>
+	
 </div>
 
 <div class="img_row">
-	<img class="col three testing" src="{{ site.baseurl }}/img/defining-the-problem-again-3.jpg"/>
+	<div class="col two">
+	<h1 class="project-description-title">Making a Tradeoff</h1>
+	<p>Additionally, we were constrained by the small size of the smartphone interface. The key to our design is the vertical scales because it creates larger scales than horizontal ones. We had to make a tradeoff with how easily the user can read the three categories, but it was a necessary one. The vertical scales ties directly back to our problem statement.</p>
+	</div>
+	<img class="col one" src="{{ site.baseurl }}/img/usability-test-prototype.jpg"/>
 </div>
 
 <div class="img_row welcome_message">
