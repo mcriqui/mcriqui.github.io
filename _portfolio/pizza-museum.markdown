@@ -30,7 +30,7 @@ quote: Pizza has the power to bring people together.
 
 <div>
 	<h1 class="project-description-title">Final Deliverable</h1>
-	<p>View our final <a href="https://medium.com/interaction-design-practice/bloomington-firefighter-tool-design-49cf68e03492#.8a6nfmknv" target="_blank"><strong>video here.</strong></a> I helped build the prototypes and wrote the text for the video.</p>
+	<p>View our final <a href="https://www.youtube.com/watch?v=dAy6Mcs-9bw&feature=youtu.be" target="_blank"><strong>video here.</strong></a> I helped build the prototypes and wrote the text for the video.</p>
 </div>
 
 <div class="post-content">
