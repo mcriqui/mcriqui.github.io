@@ -41,7 +41,7 @@ quote: Pizza has the power to bring people together.
 <div class="post-content col three">
 	<h1 class="project-description-title">Exploring Topics</h1>
 	<img class="col one" src="/img/firstpizzawhiteboard.jpg">
-	<p class="col two">To begin, our team met and we discussed multiple topics. For a two month project we wanted to focus on something all team members were interested in. We each made a list of things and topics we are interested in. We then went to each other’s lists and 'plus-oned' those topics we were interested in. There were three that we had the most interest: <a class="homepage_keywords">natural disasters, drugs and pizza.</a></p>
+	<p class="col two">To begin, our team met and we discussed multiple topics. For a two month project we wanted to focus on something all team members were interested in. We each made a list of things and topics we are interested in. We then went to each other’s lists and 'plus-oned' those topics we would want to work on. There were three that we had the most interest: <a class="homepage_keywords">natural disasters, drugs and pizza.</a></p>
 </div>
 
 <div class="post-content col three">
@@ -65,19 +65,19 @@ quote: Pizza has the power to bring people together.
 </div>
 
 <div class="post-content col three">
-	<h1 class="project-description-title">Sketching to get to our first concept</h1>
-	<p class="col three">With our goal of what we wanted the museum to do, we collectively sketched different ideas. Through round robin sketching and multiple iterations we came to a concept that we referred to as <a class="homepage_keywords">“Pizza as an Interface.”</a> We wanted to create a playful interaction so we sketched a pizza interface that would be on the floor. Users would come up to it and play different games that would teach them how to make a pizza and would teach them how to make a pizza and would also result in them creating an actual pizza to eat.<p>
+	<h1 class="project-description-title">Sketching to Get to First Concept</h1>
+	<p class="col three">With our goal of what we wanted the museum to do, we collectively sketched different ideas. Through round robin sketching and multiple iterations we came to a concept that we referred to as <a class="homepage_keywords">“Pizza as an Interface.”</a> We wanted to create a playful interaction so we sketched a pizza interface that would be on the floor. Users would come up to it and play different games that would teach them how to make a pizza and would also result in them creating an actual pizza to eat.<p>
 	<div class="img_row">
 		<img class="col one" src="{{ site.baseurl }}/img/pizzasketch1.jpg"/>
 		<img class="col one" src="{{ site.baseurl }}/img/pizzasketch2.jpg"/>
 		<img class="col one" src="{{ site.baseurl }}/img/pizzasketch3.jpg"/>
 	</div>
-	<div class="col three caption">Some of our earlier concepts focused on how visitors can experience with all five sense. I drew the sketch in green.</div>
+	<div class="col three caption">Some of our earlier concepts focused on how visitors can experience pizza with all five sense. I drew the sketch in green.</div>
 </div>
 
 <div class="post-content col three">
 	<h1 class="project-description-title">Experience Prototype</h1>
-	<p class="col three">To conceptualize this idea we created an experience prototype. Under the direction of our appointed Art Director, Hannah Jones, we constructed an actual size prototype. Creating the prototype and walking through the experience helped us find usability flaws but it also helped us think about if the concept was actually achieving our intended purpose of bringing people together.</p>
+	<p class="col three">To conceptualize this idea we created an experience prototype. Under the direction of our appointed Art Director, Hannah Jones, we constructed a life size prototype. Creating the prototype and walking through the experience helped us find usability flaws but it also helped us think about if the concept was actually achieving our intended purpose of bringing people together.</p>
 	<div class="img_row">
 		<img class="col one" src="{{ site.baseurl }}/img/pizza-prototype4.jpg"/>
 		<img class="col two" src="{{ site.baseurl }}/img/pizzaprototype3.jpg"/>
@@ -106,7 +106,7 @@ quote: Pizza has the power to bring people together.
 </div>
 
 <div class="post-content">
-	<h1 class="project-description-title">Sketching to get to final concept</h1>	
+	<h1 class="project-description-title">Sketching to Get to Final Concept</h1>	
 	<img class="col one" src="/img/pizzasketching1.jpg">
 	<p class="col two">With our new insights, we quite literally went back to the drawing board. Through sketching and iterating we came to our final concept of <a class="homepage_keywords">an exhibit that’s a game.</a> Families would split into teams and then compete in five games that would allow them to play while learning about pizza. We researched play and how it's important for the development of children and important for family bonding so we wanted to use our exhibit to encourage play with family members. Meals are often times when families come together so food, specifically pizza, made sense to connect with this goal.</p>
 
