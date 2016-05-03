@@ -1,8 +1,8 @@
 ---
 layout: post
-title: Firefighters
-description: right information at the right time
-img: /img/updated_fire.jpg
+title: Pizza Museum Exhibit
+description: bringing familes together with play
+img: /img/pizzapie.jpg
 quote: “No two calls are the same.” Captain Jon Musgrave, Station 3
 ---
 <div class="img_row">
@@ -30,7 +30,7 @@ quote: “No two calls are the same.” Captain Jon Musgrave, Station 3
 
 <div>
 	<h1 class="project-description-title">Final Deliverable</h1>
-	<p>View our final <a href="https://medium.com/interaction-design-practice/bloomington-firefighter-tool-design-49cf68e03492#.8a6nfmknv" target="_blank"><strong>Medium blog post here.</strong></a> I created this blog post witih input and edits from my team members.</p>
+	<p>View our final <a href="https://medium.com/interaction-design-practice/bloomington-firefighter-tool-design-49cf68e03492#.8a6nfmknv"><strong>Medium blog post here.</strong></a> I created this blog post witih input and edits from my team members.</p>
 </div>
 
 <div class="post-content">
@@ -72,6 +72,7 @@ quote: “No two calls are the same.” Captain Jon Musgrave, Station 3
 
 <div class="post-content ">
 	<h1 class="project-description-title">Iterating on What Matters</h1>
+<!-- 	<img class="col three testing" src="{{ site.baseurl }}/img/fishbowl.jpg"/> -->
 	<p>From this insight, we iterated on the keyboard and how the information is presented. Of course the information that’s displayed matters but they already have all the information at their disposal. What we were able to design and what was necessary to design was how they can easily access that information.</p>
 </div>
 
