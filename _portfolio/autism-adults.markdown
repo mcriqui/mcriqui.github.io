@@ -28,7 +28,7 @@ quote: Symptoms vary but mildly autistic adults appreciate consistency and have 
 
 <div>
 	<h1 class="project-description-title">Final Deliverable</h1>
-	<p>View our final <a href="https://iu.box.com/s/ajpuk7z2hcbxg1sek1ugmk4fc0ctj99v"><strong>slide deck here.</strong></a> I created this presentation witih input and edits from my team members.</p>
+	<p>View our final <a href="https://iu.box.com/s/ajpuk7z2hcbxg1sek1ugmk4fc0ctj99v" target="_blank"><strong>slide deck here.</strong></a> I created this presentation witih input and edits from my team members.</p>
 </div>
 
 <div class="post-content col three">
