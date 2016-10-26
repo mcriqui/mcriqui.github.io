@@ -22,7 +22,7 @@ quote: “No two calls are the same.” Captain Jon Musgrave, Station 3
 	
 	<div class="col one project-subjects">
 		<a class="project-top-header">Context</a>
-		<p>Three Weeks<br>Class Project,<br>Interaction Design Principles</p>
+		<p>Three Weeks<br>Class Project<br>Interaction Design Principles</p>
 	</div>
 </div>
 
