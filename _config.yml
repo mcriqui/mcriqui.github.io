@@ -19,6 +19,9 @@ highlighter: rouge
 
 
 collections:
+  professional:
+    output: true
+    permalink: /professional/:path/
   portfolio:
     output: true
     permalink: /portfolio/:path/

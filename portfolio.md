@@ -1,97 +1,29 @@
 ---
 layout: page
-title: portfolio
-permalink: /portfolio/
+title: about me
+permalink: /about-me/
 ---
 
-<p><em>Academic Projects</em></p>
-
-{% for project in site.portfolio %}
-
-{% if project.redirect %}
-<div class="project">
-    <div class="thumbnail">
-        <a href="{{ project.redirect }}" target="_blank">
-        {% if project.img %}
-        <img class="thumbnail" src="{{ project.img }}"/>
-        {% else %}
-        <div class="thumbnail blankbox"></div>
-        {% endif %}    
-        <span>
-            <h1>{{ project.title }}</h1>
-            <br/>
-            <p>{{ project.description }}</p>
-        </span>
-        </a>
-    </div>
-</div>
-{% else %}
-
-<div class="project ">
-    <div class="thumbnail">
-        <a href="{{ site.baseurl }}{{ project.url }}">
-        {% if project.img %}
-        <img class="thumbnail" src="{{ project.img }}"/>
-        {% else %}
-        <div class="thumbnail blankbox"></div>
-        {% endif %}    
-        <span>
-            <h1>{{ project.title }}</h1>
-            <br/>
-            <p>{{ project.description }}</p>
-        </span>
-        </a>
-    </div>
+<div class="col three homepage_align welcome_message">
+  <h4>I'm Maggie, a <a class="homepage_keywords">User Experience Designer</a> and current</br> <a class="homepage_keywords">Human Computer Interaction Design</a> Master's student at Indiana University. </h4>
 </div>
 
-{% endif %}
-
-{% endfor %}
-<div class="personal-align">
-    <p><em>Personal Projects</em></p>
+<div class="img_row">
+  <img class="col one" src="{{ site.baseurl }}/img/headshot.jpg"/>
+  <img class="col two" src="{{ site.baseurl }}/img/team.jpg"/>
 </div>
 
-
-{% for project in site.sideprojects %}
-
-{% if project.redirect %}
-<div class="project">
-    <div class="thumbnail">
-        <a href="{{ project.redirect }}" target="_blank">
-        {% if project.img %}
-        <img class="thumbnail" src="{{ project.img }}"/>
-        {% else %}
-        <div class="thumbnail blankbox"></div>
-        {% endif %}    
-        <span>
-            <h1>{{ project.title }}</h1>
-            <br/>
-            <p>{{ project.description }}</p>
-        </span>
-        </a>
-    </div>
+<div class="homepage_align homepage_paragraph">
+    <p>Before attending IU, I worked at <a class="homepage_keywords">IBM's Institute for Electronic Government</a> in marketing and event management. On the side, I'm a Diversity and Inclusion Workshop Trainer with IU’s <a class="homepage_keywords">PIT (Promoting Inclusivity in Tech) Crew</a>. I am an active but remote member of <a class="homepage_keywords">Hear Me Code</a>, a Washington, DC based group offering free beginner friendly Python classes to women.</p>
 </div>
 
-{% else %}
+<br/>
+<hr/>
+<br/>
 
-<div class="project ">
-    <div class="thumbnail">
-        <a href="{{ site.baseurl }}{{ project.url }}">
-        {% if project.img %}
-        <img class="thumbnail" src="{{ project.img }}"/>
-        {% else %}
-        <div class="thumbnail blankbox"></div>
-        {% endif %}    
-        <span>
-            <h1>{{ project.title }}</h1>
-            <br/>
-            <p>{{ project.description }}</p>
-        </span>
-        </a>
-    </div>
-</div>
-
-{% endif %}
-
-{% endfor %}
-
+<span class="contacticon center">
+  <a href="mailto:maggie.criqui@gmail.com"><i class="fa fa-envelope-square"></i></a>
+  <a href="https://github.com/mcriqui" target="_blank"><i class="fa fa-github-square"></i></a>
+  <a href="https://www.linkedin.com/in/maggie-criqui-4ba46a2a" target="_blank"><i class="fa fa-linkedin-square"></i></a>
+  <a href="https://twitter.com/MaggieCriqui" target="_blank"><i class="fa fa-twitter-square"></i></a>
+</span>
