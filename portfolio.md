@@ -5,7 +5,7 @@ permalink: /about-me/
 ---
 
 <div class="col three homepage_align welcome_message">
-  <h4>I'm Maggie, a <a class="homepage_keywords">User Experience Designer</a> and current</br> <a class="homepage_keywords">Human Computer Interaction Design</a> Master's student at Indiana University. </h4>
+  <h4>I'm Maggie, a <a class="homepage_keywords">User Experience Designer</a> and current <a class="homepage_keywords">Human Computer Interaction Design</a> Master's student at Indiana University. </h4>
 </div>
 
 <div class="img_row">
