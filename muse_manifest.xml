@@ -1,4 +1,4 @@
-<manifest alg="2" build="2017.0.0.363" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster" exportTarget="other" domain="maggiecriqui.com" resolutions="1x" timestamp="1481834896682">
+<manifest alg="2" build="2017.0.0.363" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster" exportTarget="other" domain="maggiecriqui.com" resolutions="1x" timestamp="1481844923247">
   <folder name="css">
     <file name="site_global.css" crc="74441774"/>
     <file name="master_project.css" crc="470451830" ref="index"/>
@@ -117,7 +117,7 @@
   <file name="index.html" crc="4286367015" seo="true" mt="1481826895744" redirect="true"/>
   <file name="about-me.html" crc="108709575" seo="true" mt="1481826887478" redirect="true"/>
   <file name="resume.html" crc="4067488432" seo="true" mt="1481834883132" redirect="true"/>
-  <file name="ge-industrial-iot.html" crc="3797259373" seo="true" mt="1481826887478" redirect="true"/>
+  <file name="ge-industrial-iot.html" crc="3782204464" seo="true" mt="1481844889969" redirect="true"/>
   <file name="ibm-remote-design-thinking.html" crc="242930633" seo="true" mt="1481826887478" redirect="true"/>
   <file name="ricoh-jte.html" crc="3855084462" seo="true" mt="1481826887478" redirect="true"/>
 </manifest>
