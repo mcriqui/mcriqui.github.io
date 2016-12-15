@@ -1,0 +1,124 @@
+<manifest alg="2" build="2017.0.0.363" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster" exportTarget="other" domain="maggiecriqui.com" resolutions="1x" timestamp="1481832699957">
+  <folder name="css">
+    <file name="site_global.css" crc="74441774"/>
+    <file name="master_project.css" crc="470451830" ref="index"/>
+    <file name="master_main.css" crc="361261694" ref="ibm-remote-design-thinking:index:about-me:ge-industrial-iot:ricoh-jte:resume"/>
+    <file name="ibm-remote-design-thinking.css" crc="3898770623" ref="ibm-remote-design-thinking"/>
+    <file name="index.css" crc="3925541775" ref="index"/>
+    <file name="about-me.css" crc="4091842135" ref="about-me"/>
+    <file name="ge-industrial-iot.css" crc="3917836562" ref="ge-industrial-iot"/>
+    <file name="ricoh-jte.css" crc="4170596007" ref="ricoh-jte"/>
+    <file name="resume.css" crc="101648476" ref="resume"/>
+  </folder>
+  <folder name="assets">
+    <file name="wireframkes.sketch" crc="56742916" seo="true" mt="1481670966000"/>
+    <file name="img_0486.jpg" crc="53202158" seo="true" mt="1481560043000"/>
+    <file name="carlos.jpg" crc="4207490466" seo="true" mt="1481558980000"/>
+    <file name="bran.jpg" crc="272464014" seo="true" mt="1481558961000"/>
+    <file name="nava.jpg" crc="4027282143" seo="true" mt="1481558937000"/>
+    <file name="arjav_maggie.jpg" crc="4101160504" seo="true" mt="1481558906000"/>
+    <file name="content.pages" crc="268478905" seo="true" mt="1481558844000"/>
+    <file name="owen_og.png" crc="426894616" seo="true" mt="1481557620000"/>
+    <file name="describe.png" crc="3986441209" seo="true" mt="1481557594000"/>
+    <file name="owen_end.png" crc="124901960" seo="true" mt="1481557556000"/>
+    <file name="hannah3.png" crc="377439477" seo="true" mt="1481557499000"/>
+    <file name="hannah3" crc="377439477" seo="true" mt="1481557493000"/>
+    <file name="hannah2.png" crc="256659781" seo="true" mt="1481557478000"/>
+    <file name="hannah.png" crc="4137212126" seo="true" mt="1481557452000"/>
+    <file name="maggie.png" crc="310795510" seo="true" mt="1481557438000"/>
+    <file name="emily.png" crc="4165928746" seo="true" mt="1481557423000"/>
+    <file name="owen_whiteboard.png" crc="4132541923" seo="true" mt="1481557400000"/>
+    <file name="owen_participants.png" crc="39430336" seo="true" mt="1481557340000"/>
+    <file name="success.png" crc="480894527" seo="true" mt="1481557321000"/>
+    <file name="owen.png" crc="39430336" seo="true" mt="1481557273000"/>
+    <file name="owen_participants" crc="39430336" seo="true" mt="1481557198000"/>
+    <file name="owen_designer" crc="4132541923" seo="true" mt="1481557143000"/>
+    <file name="img_2797.jpg" crc="323026360" seo="true" mt="1481556156000"/>
+    <file name="img_0489.jpg" crc="4263375723" seo="true" mt="1481555839000"/>
+    <file name="alex_cover_photo.jpg" crc="279324021" seo="true" mt="1481649627000"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:about-me:resume:ge-industrial-iot:ibm-remote-design-thinking:ricoh-jte"/>
+    <file name="museutils.js" crc="163421577" ref="index:about-me:resume:ge-industrial-iot:ibm-remote-design-thinking:ricoh-jte"/>
+    <file name="whatinput.js" crc="86476730" ref="index:about-me:resume:ge-industrial-iot:ibm-remote-design-thinking:ricoh-jte"/>
+    <file name="museconfig.js" crc="36584860" ref="index:about-me:resume:ge-industrial-iot:ibm-remote-design-thinking:ricoh-jte"/>
+    <file name="jquery.musemenu.js" crc="146495465" ref="index:about-me:resume:ge-industrial-iot:ibm-remote-design-thinking:ricoh-jte"/>
+    <file name="jquery.watch.js" crc="104486786" ref="index:about-me:resume:ge-industrial-iot:ibm-remote-design-thinking:ricoh-jte"/>
+    <file name="html5shiv.js" crc="4241844378" ref="index:about-me:resume:ge-industrial-iot:ibm-remote-design-thinking:ricoh-jte"/>
+    <file name="require.js" crc="244322403" ref="index:about-me:resume:ge-industrial-iot:ibm-remote-design-thinking:ricoh-jte"/>
+    <file name="webpro.js" crc="3848665353" ref="ibm-remote-design-thinking:ricoh-jte"/>
+    <file name="musewpslideshow.js" crc="4041717617" ref="ibm-remote-design-thinking:ricoh-jte"/>
+    <file name="jquery.museoverlay.js" crc="36492500" ref="ibm-remote-design-thinking:ricoh-jte"/>
+    <file name="touchswipe.js" crc="404375771" ref="ibm-remote-design-thinking:ricoh-jte"/>
+  </folder>
+  <folder name="images">
+    <file name="ricoh_card.jpg" crc="134936717" seo="true" ref="index"/>
+    <file name="system_design_card.jpg" crc="4014466025" seo="true" ref="index"/>
+    <file name="describe_card.jpg" crc="496224439" seo="true" ref="index"/>
+    <file name="hciconnect_final-17.jpg" crc="4116623616" seo="true" ref="about-me"/>
+    <file name="mail.png" crc="145394096" seo="true" ref="about-me"/>
+    <file name="github.png" crc="306520725" seo="true" ref="about-me"/>
+    <file name="linkedin.png" crc="169833188" seo="true" ref="about-me"/>
+    <file name="twitter.png" crc="4119192136" seo="true" ref="about-me"/>
+    <file name="mcriquiresume.jpg" crc="3831548499" seo="true" ref="resume"/>
+    <file name="alex_cover_photo-crop-u587.jpg" crc="3886004926" ref="ge-industrial-iot"/>
+    <file name="open_door.jpg" crc="4231255702" seo="true" ref="ge-industrial-iot"/>
+    <file name="user_journey_before.jpg" crc="98083536" seo="true" ref="ge-industrial-iot"/>
+    <file name="chart.png" crc="536538265" seo="true" ref="ge-industrial-iot"/>
+    <file name="user_journey_after.jpg" crc="287920196" seo="true" ref="ge-industrial-iot"/>
+    <file name="arrow.png" crc="4049727248" seo="true" ref="ge-industrial-iot"/>
+    <file name="leave.png" crc="3848319586" seo="true" ref="ge-industrial-iot"/>
+    <file name="therostat.png" crc="295234796" seo="true" ref="ge-industrial-iot"/>
+    <file name="maggie_thermostat.jpg" crc="3987582651" seo="true" ref="ge-industrial-iot"/>
+    <file name="pasted image 452x278.jpg" crc="260410058" seo="true" ref="ge-industrial-iot"/>
+    <file name="grayarrow.svg" crc="73135241" seo="true" ref="ge-industrial-iot"/>
+    <file name="grayarrow_poster_.png" crc="132769788" ref="ge-industrial-iot"/>
+    <file name="users.png" crc="341706732" seo="true" ref="ge-industrial-iot"/>
+    <file name="img_0489-crop-u1155.jpg" crc="4217491087" ref="ibm-remote-design-thinking"/>
+    <file name="img_2797-crop-u1223.jpg" crc="290685662" ref="ibm-remote-design-thinking"/>
+    <file name="owen_og.jpg" crc="147322087" seo="true" ref="ibm-remote-design-thinking"/>
+    <file name="blank.gif" crc="4208392903" ref="ibm-remote-design-thinking:ricoh-jte"/>
+    <file name="owen_participants.jpg" crc="85586129" seo="true" ref="ibm-remote-design-thinking"/>
+    <file name="owen_whiteboard.jpg" crc="220191089" seo="true" ref="ibm-remote-design-thinking"/>
+    <file name="success.jpg" crc="4101001105" seo="true" ref="ibm-remote-design-thinking"/>
+    <file name="emily-crop-u1602.jpg" crc="454985654" ref="ibm-remote-design-thinking"/>
+    <file name="maggie-crop-u1628.jpg" crc="469801534" ref="ibm-remote-design-thinking"/>
+    <file name="hannah-crop-u1654.jpg" crc="216144321" ref="ibm-remote-design-thinking"/>
+    <file name="hannah2-crop-u1680.jpg" crc="274045786" ref="ibm-remote-design-thinking"/>
+    <file name="owen_end.jpg" crc="344224807" seo="true" ref="ibm-remote-design-thinking"/>
+    <file name="loading.gif" crc="3815509949" ref="ibm-remote-design-thinking:ricoh-jte"/>
+    <file name="howitworks.jpg" crc="255751194" seo="true" ref="ibm-remote-design-thinking"/>
+    <file name="carlos.jpg" crc="4258436579" seo="true" ref="ibm-remote-design-thinking"/>
+    <file name="bran.jpg" crc="122375431" seo="true" ref="ibm-remote-design-thinking"/>
+    <file name="nava.jpg" crc="385950669" seo="true" ref="ibm-remote-design-thinking"/>
+    <file name="lightbuilb.png" crc="4142503019" seo="true" ref="ibm-remote-design-thinking"/>
+    <file name="clock-crop-u1796.png" crc="145355207" ref="ibm-remote-design-thinking"/>
+    <file name="img_0486.jpg" crc="235689987" seo="true" ref="ibm-remote-design-thinking"/>
+    <file name="pasted image 720x406.jpg" crc="3817808501" seo="true" ref="ricoh-jte"/>
+    <file name="img_2028-crop-u2242.jpg" crc="196660577" ref="ricoh-jte"/>
+    <file name="original5.jpg" crc="19843580" seo="true" ref="ricoh-jte"/>
+    <file name="original4.jpg" crc="374580028" seo="true" ref="ricoh-jte"/>
+    <file name="original3.jpg" crc="26403285" seo="true" ref="ricoh-jte"/>
+    <file name="original2.png" crc="432533649" seo="true" ref="ricoh-jte"/>
+    <file name="original1.png" crc="427718461" seo="true" ref="ricoh-jte"/>
+    <file name="screen shot 2016-12-14 at 10342 pm-crop-u2601.jpg" crc="4281685424" ref="ricoh-jte"/>
+    <file name="screen shot 2016-12-14 at 10607 pm-crop-u2627.jpg" crc="4141890059" ref="ricoh-jte"/>
+    <file name="screen shot 2016-12-14 at 44942 pm.jpg" crc="3882849167" seo="true" ref="ricoh-jte"/>
+    <file name="developer-crop-u2674.jpg" crc="3992775186" ref="ricoh-jte"/>
+    <file name="final1.jpg" crc="4243840352" seo="true" ref="ricoh-jte"/>
+    <file name="final2.jpg" crc="3812667735" seo="true" ref="ricoh-jte"/>
+    <file name="final3.jpg" crc="3927009454" seo="true" ref="ricoh-jte"/>
+    <file name="final4.jpg" crc="345239830" seo="true" ref="ricoh-jte"/>
+    <file name="final5.jpg" crc="116939122" seo="true" ref="ricoh-jte"/>
+    <file name="triangle.png" crc="3838404321" seo="true" ref="ricoh-jte"/>
+    <file name="img_2027.jpg" crc="369638113" seo="true" ref="ricoh-jte"/>
+    <file name="img_1781.jpg" crc="37997722" seo="true" ref="ricoh-jte"/>
+    <file name="img_2036.jpg" crc="3964174767" seo="true" ref="ricoh-jte"/>
+  </folder>
+  <file name="index.html" crc="4286367015" seo="true" mt="1481826895744" redirect="true"/>
+  <file name="about-me.html" crc="108709575" seo="true" mt="1481826887478" redirect="true"/>
+  <file name="resume.html" crc="206123710" seo="true" mt="1481826887478" redirect="true"/>
+  <file name="ge-industrial-iot.html" crc="3797259373" seo="true" mt="1481826887478" redirect="true"/>
+  <file name="ibm-remote-design-thinking.html" crc="242930633" seo="true" mt="1481826887478" redirect="true"/>
+  <file name="ricoh-jte.html" crc="3855084462" seo="true" mt="1481826887478" redirect="true"/>
+</manifest>
