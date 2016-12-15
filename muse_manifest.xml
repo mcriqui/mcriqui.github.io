@@ -1,4 +1,4 @@
-<manifest alg="2" build="2017.0.0.363" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster" exportTarget="other" domain="maggiecriqui.com" resolutions="1x" timestamp="1481832699957">
+<manifest alg="2" build="2017.0.0.363" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster" exportTarget="other" domain="maggiecriqui.com" resolutions="1x" timestamp="1481834896682">
   <folder name="css">
     <file name="site_global.css" crc="74441774"/>
     <file name="master_project.css" crc="470451830" ref="index"/>
@@ -8,10 +8,9 @@
     <file name="about-me.css" crc="4091842135" ref="about-me"/>
     <file name="ge-industrial-iot.css" crc="3917836562" ref="ge-industrial-iot"/>
     <file name="ricoh-jte.css" crc="4170596007" ref="ricoh-jte"/>
-    <file name="resume.css" crc="101648476" ref="resume"/>
+    <file name="resume.css" crc="3819224669" ref="resume"/>
   </folder>
   <folder name="assets">
-    <file name="wireframkes.sketch" crc="56742916" seo="true" mt="1481670966000"/>
     <file name="img_0486.jpg" crc="53202158" seo="true" mt="1481560043000"/>
     <file name="carlos.jpg" crc="4207490466" seo="true" mt="1481558980000"/>
     <file name="bran.jpg" crc="272464014" seo="true" mt="1481558961000"/>
@@ -117,7 +116,7 @@
   </folder>
   <file name="index.html" crc="4286367015" seo="true" mt="1481826895744" redirect="true"/>
   <file name="about-me.html" crc="108709575" seo="true" mt="1481826887478" redirect="true"/>
-  <file name="resume.html" crc="206123710" seo="true" mt="1481826887478" redirect="true"/>
+  <file name="resume.html" crc="4067488432" seo="true" mt="1481834883132" redirect="true"/>
   <file name="ge-industrial-iot.html" crc="3797259373" seo="true" mt="1481826887478" redirect="true"/>
   <file name="ibm-remote-design-thinking.html" crc="242930633" seo="true" mt="1481826887478" redirect="true"/>
   <file name="ricoh-jte.html" crc="3855084462" seo="true" mt="1481826887478" redirect="true"/>

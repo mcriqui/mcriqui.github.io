@@ -7,13 +7,13 @@
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://maggiecriqui.com/ricoh-jte.html</loc>
+    <loc>http://maggiecriqui.com/ibm-remote-design-thinking.html</loc>
     <lastmod>2016-12-15</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://maggiecriqui.com/ibm-remote-design-thinking.html</loc>
+    <loc>http://maggiecriqui.com/ricoh-jte.html</loc>
     <lastmod>2016-12-15</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
@@ -33,12 +33,6 @@
   <url>
     <loc>http://maggiecriqui.com/about-me.html</loc>
     <lastmod>2016-12-15</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://maggiecriqui.com/assets/content.pages</loc>
-    <lastmod>2016-12-12</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
@@ -229,13 +223,13 @@
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://maggiecriqui.com/assets/nava.jpg</loc>
+    <loc>http://maggiecriqui.com/assets/arjav_maggie.jpg</loc>
     <lastmod>2016-12-12</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://maggiecriqui.com/assets/arjav_maggie.jpg</loc>
+    <loc>http://maggiecriqui.com/assets/content.pages</loc>
     <lastmod>2016-12-12</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
@@ -433,7 +427,13 @@
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://maggiecriqui.com/assets/img_0486.jpg</loc>
+    <loc>http://maggiecriqui.com/assets/carlos.jpg</loc>
+    <lastmod>2016-12-12</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://maggiecriqui.com/assets/nava.jpg</loc>
     <lastmod>2016-12-12</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
@@ -445,20 +445,14 @@
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://maggiecriqui.com/assets/carlos.jpg</loc>
-    <lastmod>2016-12-12</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://maggiecriqui.com/assets/wireframkes.sketch</loc>
-    <lastmod>2016-12-13</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>http://maggiecriqui.com/images/arrow.png</loc>
     <lastmod>2016-12-15</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://maggiecriqui.com/assets/img_0486.jpg</loc>
+    <lastmod>2016-12-12</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
