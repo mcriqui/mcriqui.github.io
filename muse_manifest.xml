@@ -1,14 +1,15 @@
-<manifest alg="2" build="2017.0.0.363" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster" exportTarget="other" domain="maggiecriqui.com" resolutions="1x" timestamp="1481846437073">
+<manifest alg="2" build="2017.0.0.363" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster" exportTarget="other" domain="maggiecriqui.com" resolutions="1x" timestamp="1483551775803">
   <folder name="css">
-    <file name="site_global.css" crc="74441774"/>
+    <file name="site_global.css" crc="42314787"/>
     <file name="master_project.css" crc="470451830" ref="index"/>
-    <file name="master_main.css" crc="361261694" ref="ibm-remote-design-thinking:index:about-me:ge-industrial-iot:ricoh-jte:resume"/>
-    <file name="ibm-remote-design-thinking.css" crc="3898770623" ref="ibm-remote-design-thinking"/>
-    <file name="index.css" crc="3925541775" ref="index"/>
+    <file name="master_main.css" crc="361261694" ref="ibm-remote-design-thinking:index:about-me:ge-industrial-iot:ricoh-jte:resume:selfwatch"/>
+    <file name="ibm-remote-design-thinking.css" crc="92227313" ref="ibm-remote-design-thinking"/>
+    <file name="index.css" crc="4178660764" ref="index"/>
     <file name="about-me.css" crc="4091842135" ref="about-me"/>
     <file name="ge-industrial-iot.css" crc="3917836562" ref="ge-industrial-iot"/>
-    <file name="ricoh-jte.css" crc="4170596007" ref="ricoh-jte"/>
+    <file name="ricoh-jte.css" crc="249526558" ref="ricoh-jte"/>
     <file name="resume.css" crc="3819224669" ref="resume"/>
+    <file name="selfwatch.css" crc="473105810" ref="selfwatch"/>
   </folder>
   <folder name="assets">
     <file name="img_0486.jpg" crc="53202158" seo="true" mt="1481560043000"/>
@@ -37,14 +38,14 @@
     <file name="alex_cover_photo.jpg" crc="279324021" seo="true" mt="1481649627000"/>
   </folder>
   <folder name="scripts">
-    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:about-me:resume:ge-industrial-iot:ibm-remote-design-thinking:ricoh-jte"/>
-    <file name="museutils.js" crc="163421577" ref="index:about-me:resume:ge-industrial-iot:ibm-remote-design-thinking:ricoh-jte"/>
-    <file name="whatinput.js" crc="86476730" ref="index:about-me:resume:ge-industrial-iot:ibm-remote-design-thinking:ricoh-jte"/>
-    <file name="museconfig.js" crc="36584860" ref="index:about-me:resume:ge-industrial-iot:ibm-remote-design-thinking:ricoh-jte"/>
-    <file name="jquery.musemenu.js" crc="146495465" ref="index:about-me:resume:ge-industrial-iot:ibm-remote-design-thinking:ricoh-jte"/>
-    <file name="jquery.watch.js" crc="104486786" ref="index:about-me:resume:ge-industrial-iot:ibm-remote-design-thinking:ricoh-jte"/>
-    <file name="html5shiv.js" crc="4241844378" ref="index:about-me:resume:ge-industrial-iot:ibm-remote-design-thinking:ricoh-jte"/>
-    <file name="require.js" crc="244322403" ref="index:about-me:resume:ge-industrial-iot:ibm-remote-design-thinking:ricoh-jte"/>
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:about-me:resume:ge-industrial-iot:ibm-remote-design-thinking:ricoh-jte:selfwatch"/>
+    <file name="museutils.js" crc="163421577" ref="index:about-me:resume:ge-industrial-iot:ibm-remote-design-thinking:ricoh-jte:selfwatch"/>
+    <file name="whatinput.js" crc="86476730" ref="index:about-me:resume:ge-industrial-iot:ibm-remote-design-thinking:ricoh-jte:selfwatch"/>
+    <file name="museconfig.js" crc="36584860" ref="index:about-me:resume:ge-industrial-iot:ibm-remote-design-thinking:ricoh-jte:selfwatch"/>
+    <file name="jquery.musemenu.js" crc="146495465" ref="index:about-me:resume:ge-industrial-iot:ibm-remote-design-thinking:ricoh-jte:selfwatch"/>
+    <file name="jquery.watch.js" crc="104486786" ref="index:about-me:resume:ge-industrial-iot:ibm-remote-design-thinking:ricoh-jte:selfwatch"/>
+    <file name="html5shiv.js" crc="4241844378" ref="index:about-me:resume:ge-industrial-iot:ibm-remote-design-thinking:ricoh-jte:selfwatch"/>
+    <file name="require.js" crc="244322403" ref="index:about-me:resume:ge-industrial-iot:ibm-remote-design-thinking:ricoh-jte:selfwatch"/>
     <file name="webpro.js" crc="3848665353" ref="ibm-remote-design-thinking:ricoh-jte"/>
     <file name="musewpslideshow.js" crc="4041717617" ref="ibm-remote-design-thinking:ricoh-jte"/>
     <file name="jquery.museoverlay.js" crc="36492500" ref="ibm-remote-design-thinking:ricoh-jte"/>
@@ -94,7 +95,7 @@
     <file name="clock-crop-u1796.png" crc="145355207" ref="ibm-remote-design-thinking"/>
     <file name="img_0486.jpg" crc="235689987" seo="true" ref="ibm-remote-design-thinking"/>
     <file name="pasted image 720x406.jpg" crc="3817808501" seo="true" ref="ricoh-jte"/>
-    <file name="img_2028-crop-u2242.jpg" crc="196660577" ref="ricoh-jte"/>
+    <file name="img_2028-crop-u2242.jpg" crc="110974028" ref="ricoh-jte"/>
     <file name="original5.jpg" crc="19843580" seo="true" ref="ricoh-jte"/>
     <file name="original4.jpg" crc="374580028" seo="true" ref="ricoh-jte"/>
     <file name="original3.jpg" crc="26403285" seo="true" ref="ricoh-jte"/>
@@ -113,11 +114,30 @@
     <file name="img_2027.jpg" crc="369638113" seo="true" ref="ricoh-jte"/>
     <file name="img_1781.jpg" crc="37997722" seo="true" ref="ricoh-jte"/>
     <file name="img_2036.jpg" crc="3964174767" seo="true" ref="ricoh-jte"/>
+    <file name="selfwatch_card.png" crc="3893367274" seo="true" ref="index"/>
+    <file name="watch-crop-u3415.jpg" crc="14535601" ref="selfwatch"/>
+    <file name="ipad3.jpg" crc="7235811" seo="true" ref="selfwatch"/>
+    <file name="2smartwatch.jpg" crc="33216344" seo="true" ref="selfwatch"/>
+    <file name="pasted image 464x348.png" crc="3871136335" seo="true" ref="selfwatch"/>
+    <file name="first_watch-crop-u3407.jpg" crc="3959419971" ref="selfwatch"/>
+    <file name="ipad1.jpg" crc="343397578" seo="true" ref="selfwatch"/>
+    <file name="heart.png" crc="211450801" seo="true" ref="selfwatch"/>
+    <file name="1smartwatch.jpg" crc="464993522" seo="true" ref="selfwatch"/>
+    <file name="integrate.png" crc="461677626" seo="true" ref="selfwatch"/>
+    <file name="barbells.png" crc="98329977" seo="true" ref="selfwatch"/>
+    <file name="me_whiteboard-crop-u3743.jpg" crc="188478028" ref="selfwatch"/>
+    <file name="pasted image 367x276.png" crc="3897902452" seo="true" ref="selfwatch"/>
+    <file name="ipad2.jpg" crc="162684590" seo="true" ref="selfwatch"/>
+    <file name="reminder_card.png" crc="484089231" seo="true" ref="selfwatch"/>
+    <file name="3smartwatch.jpg" crc="4234024295" seo="true" ref="selfwatch"/>
+    <file name="bulb.png" crc="3837956949" seo="true" ref="selfwatch"/>
+    <file name="pasted image 301x226.png" crc="3993768294" seo="true" ref="selfwatch"/>
   </folder>
-  <file name="index.html" crc="4286367015" seo="true" mt="1481826895744" redirect="true"/>
-  <file name="about-me.html" crc="108709575" seo="true" mt="1481826887478" redirect="true"/>
+  <file name="index.html" crc="374591867" seo="true" mt="1483550656512" redirect="true"/>
+  <file name="about-me.html" crc="4056608168" seo="true" mt="1483545590064" redirect="true"/>
   <file name="resume.html" crc="440224222" seo="true" mt="1481846323525" redirect="true"/>
-  <file name="ge-industrial-iot.html" crc="3782204464" seo="true" mt="1481844889969" redirect="true"/>
-  <file name="ibm-remote-design-thinking.html" crc="242930633" seo="true" mt="1481826887478" redirect="true"/>
-  <file name="ricoh-jte.html" crc="4013666445" seo="true" mt="1481846420747" redirect="true"/>
+  <file name="ge-industrial-iot.html" crc="519207790" seo="true" mt="1483545590015" redirect="true"/>
+  <file name="ibm-remote-design-thinking.html" crc="377444641" seo="true" mt="1483545590018" redirect="true"/>
+  <file name="ricoh-jte.html" crc="4088605003" seo="true" mt="1483545590035" redirect="true"/>
+  <file name="selfwatch.html" crc="4142060904" seo="true" mt="1483549096570" redirect="true"/>
 </manifest>

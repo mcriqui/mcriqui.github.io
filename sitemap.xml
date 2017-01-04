@@ -2,25 +2,37 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>http://maggiecriqui.com/index.html</loc>
-    <lastmod>2016-12-15</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://maggiecriqui.com/ibm-remote-design-thinking.html</loc>
-    <lastmod>2016-12-15</lastmod>
+    <lastmod>2017-01-04</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>http://maggiecriqui.com/ricoh-jte.html</loc>
-    <lastmod>2016-12-15</lastmod>
+    <lastmod>2017-01-04</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://maggiecriqui.com/selfwatch.html</loc>
+    <lastmod>2017-01-04</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://maggiecriqui.com/ibm-remote-design-thinking.html</loc>
+    <lastmod>2017-01-04</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>http://maggiecriqui.com/ge-industrial-iot.html</loc>
-    <lastmod>2016-12-15</lastmod>
+    <lastmod>2017-01-04</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://maggiecriqui.com/about-me.html</loc>
+    <lastmod>2017-01-04</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
@@ -31,20 +43,8 @@
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://maggiecriqui.com/about-me.html</loc>
-    <lastmod>2016-12-15</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://maggiecriqui.com/assets/owen_og.png</loc>
-    <lastmod>2016-12-12</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://maggiecriqui.com/assets/describe.png</loc>
-    <lastmod>2016-12-12</lastmod>
+    <loc>http://maggiecriqui.com/images/describe_card.jpg</loc>
+    <lastmod>2017-01-04</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
@@ -146,85 +146,133 @@
   </url>
   <url>
     <loc>http://maggiecriqui.com/images/ricoh_card.jpg</loc>
-    <lastmod>2016-12-15</lastmod>
+    <lastmod>2017-01-04</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://maggiecriqui.com/images/system_design_card.jpg</loc>
-    <lastmod>2016-12-15</lastmod>
+    <loc>http://maggiecriqui.com/assets/owen_og.png</loc>
+    <lastmod>2016-12-12</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://maggiecriqui.com/images/describe_card.jpg</loc>
-    <lastmod>2016-12-15</lastmod>
+    <loc>http://maggiecriqui.com/assets/describe.png</loc>
+    <lastmod>2016-12-12</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>http://maggiecriqui.com/images/hciconnect_final-17.jpg</loc>
-    <lastmod>2016-12-15</lastmod>
+    <lastmod>2017-01-04</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>http://maggiecriqui.com/images/mail.png</loc>
-    <lastmod>2016-12-15</lastmod>
+    <lastmod>2017-01-04</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>http://maggiecriqui.com/images/github.png</loc>
-    <lastmod>2016-12-15</lastmod>
+    <lastmod>2017-01-04</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>http://maggiecriqui.com/images/linkedin.png</loc>
-    <lastmod>2016-12-15</lastmod>
+    <lastmod>2017-01-04</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>http://maggiecriqui.com/images/twitter.png</loc>
-    <lastmod>2016-12-15</lastmod>
+    <lastmod>2017-01-04</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>http://maggiecriqui.com/images/mcriquiresume.jpg</loc>
-    <lastmod>2016-12-15</lastmod>
+    <lastmod>2017-01-04</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>http://maggiecriqui.com/images/open_door.jpg</loc>
-    <lastmod>2016-12-15</lastmod>
+    <lastmod>2017-01-04</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>http://maggiecriqui.com/images/user_journey_before.jpg</loc>
-    <lastmod>2016-12-15</lastmod>
+    <lastmod>2017-01-04</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>http://maggiecriqui.com/images/chart.png</loc>
-    <lastmod>2016-12-15</lastmod>
+    <lastmod>2017-01-04</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>http://maggiecriqui.com/images/user_journey_after.jpg</loc>
-    <lastmod>2016-12-15</lastmod>
+    <lastmod>2017-01-04</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://maggiecriqui.com/assets/arjav_maggie.jpg</loc>
-    <lastmod>2016-12-12</lastmod>
+    <loc>http://maggiecriqui.com/images/arrow.png</loc>
+    <lastmod>2017-01-04</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://maggiecriqui.com/images/leave.png</loc>
+    <lastmod>2017-01-04</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://maggiecriqui.com/images/therostat.png</loc>
+    <lastmod>2017-01-04</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://maggiecriqui.com/images/maggie_thermostat.jpg</loc>
+    <lastmod>2017-01-04</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://maggiecriqui.com/images/pasted%20image%20452x278.jpg</loc>
+    <lastmod>2017-01-04</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://maggiecriqui.com/images/grayarrow.svg</loc>
+    <lastmod>2017-01-04</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://maggiecriqui.com/images/users.png</loc>
+    <lastmod>2017-01-04</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://maggiecriqui.com/images/owen_og.jpg</loc>
+    <lastmod>2017-01-04</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://maggiecriqui.com/images/system_design_card.jpg</loc>
+    <lastmod>2017-01-04</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
@@ -235,199 +283,247 @@
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://maggiecriqui.com/images/therostat.png</loc>
-    <lastmod>2016-12-15</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://maggiecriqui.com/images/maggie_thermostat.jpg</loc>
-    <lastmod>2016-12-15</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://maggiecriqui.com/images/pasted%20image%20452x278.jpg</loc>
-    <lastmod>2016-12-15</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://maggiecriqui.com/images/grayarrow.svg</loc>
-    <lastmod>2016-12-15</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://maggiecriqui.com/images/users.png</loc>
-    <lastmod>2016-12-15</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://maggiecriqui.com/images/owen_og.jpg</loc>
-    <lastmod>2016-12-15</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://maggiecriqui.com/images/owen_participants.jpg</loc>
-    <lastmod>2016-12-15</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://maggiecriqui.com/images/owen_whiteboard.jpg</loc>
-    <lastmod>2016-12-15</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>http://maggiecriqui.com/images/success.jpg</loc>
-    <lastmod>2016-12-15</lastmod>
+    <lastmod>2017-01-04</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>http://maggiecriqui.com/images/owen_end.jpg</loc>
-    <lastmod>2016-12-15</lastmod>
+    <lastmod>2017-01-04</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>http://maggiecriqui.com/images/howitworks.jpg</loc>
-    <lastmod>2016-12-15</lastmod>
+    <lastmod>2017-01-04</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>http://maggiecriqui.com/images/carlos.jpg</loc>
-    <lastmod>2016-12-15</lastmod>
+    <lastmod>2017-01-04</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>http://maggiecriqui.com/images/bran.jpg</loc>
-    <lastmod>2016-12-15</lastmod>
+    <lastmod>2017-01-04</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>http://maggiecriqui.com/images/nava.jpg</loc>
-    <lastmod>2016-12-15</lastmod>
+    <lastmod>2017-01-04</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>http://maggiecriqui.com/images/lightbuilb.png</loc>
-    <lastmod>2016-12-15</lastmod>
+    <lastmod>2017-01-04</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>http://maggiecriqui.com/images/img_0486.jpg</loc>
-    <lastmod>2016-12-15</lastmod>
+    <lastmod>2017-01-04</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>http://maggiecriqui.com/images/pasted%20image%20720x406.jpg</loc>
-    <lastmod>2016-12-15</lastmod>
+    <lastmod>2017-01-04</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>http://maggiecriqui.com/images/original5.jpg</loc>
-    <lastmod>2016-12-15</lastmod>
+    <lastmod>2017-01-04</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>http://maggiecriqui.com/images/original4.jpg</loc>
-    <lastmod>2016-12-15</lastmod>
+    <lastmod>2017-01-04</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>http://maggiecriqui.com/images/original3.jpg</loc>
-    <lastmod>2016-12-15</lastmod>
+    <lastmod>2017-01-04</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>http://maggiecriqui.com/images/original2.png</loc>
-    <lastmod>2016-12-15</lastmod>
+    <lastmod>2017-01-04</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>http://maggiecriqui.com/images/original1.png</loc>
-    <lastmod>2016-12-15</lastmod>
+    <lastmod>2017-01-04</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>http://maggiecriqui.com/images/screen%20shot%202016-12-14%20at%2044942%20pm.jpg</loc>
-    <lastmod>2016-12-15</lastmod>
+    <lastmod>2017-01-04</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>http://maggiecriqui.com/images/final1.jpg</loc>
-    <lastmod>2016-12-15</lastmod>
+    <lastmod>2017-01-04</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>http://maggiecriqui.com/images/final2.jpg</loc>
-    <lastmod>2016-12-15</lastmod>
+    <lastmod>2017-01-04</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>http://maggiecriqui.com/images/final3.jpg</loc>
-    <lastmod>2016-12-15</lastmod>
+    <lastmod>2017-01-04</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>http://maggiecriqui.com/images/final4.jpg</loc>
-    <lastmod>2016-12-15</lastmod>
+    <lastmod>2017-01-04</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>http://maggiecriqui.com/images/final5.jpg</loc>
-    <lastmod>2016-12-15</lastmod>
+    <lastmod>2017-01-04</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>http://maggiecriqui.com/images/triangle.png</loc>
-    <lastmod>2016-12-15</lastmod>
+    <lastmod>2017-01-04</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>http://maggiecriqui.com/images/img_2027.jpg</loc>
-    <lastmod>2016-12-15</lastmod>
+    <lastmod>2017-01-04</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>http://maggiecriqui.com/images/img_1781.jpg</loc>
-    <lastmod>2016-12-15</lastmod>
+    <lastmod>2017-01-04</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>http://maggiecriqui.com/images/img_2036.jpg</loc>
-    <lastmod>2016-12-15</lastmod>
+    <lastmod>2017-01-04</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://maggiecriqui.com/images/selfwatch_card.png</loc>
+    <lastmod>2017-01-04</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://maggiecriqui.com/images/ipad3.jpg</loc>
+    <lastmod>2017-01-04</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://maggiecriqui.com/images/2smartwatch.jpg</loc>
+    <lastmod>2017-01-04</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://maggiecriqui.com/images/pasted%20image%20464x348.png</loc>
+    <lastmod>2017-01-04</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://maggiecriqui.com/images/ipad1.jpg</loc>
+    <lastmod>2017-01-04</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://maggiecriqui.com/images/heart.png</loc>
+    <lastmod>2017-01-04</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://maggiecriqui.com/images/1smartwatch.jpg</loc>
+    <lastmod>2017-01-04</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://maggiecriqui.com/images/integrate.png</loc>
+    <lastmod>2017-01-04</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://maggiecriqui.com/images/barbells.png</loc>
+    <lastmod>2017-01-04</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://maggiecriqui.com/images/pasted%20image%20367x276.png</loc>
+    <lastmod>2017-01-04</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://maggiecriqui.com/images/ipad2.jpg</loc>
+    <lastmod>2017-01-04</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://maggiecriqui.com/images/reminder_card.png</loc>
+    <lastmod>2017-01-04</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://maggiecriqui.com/images/3smartwatch.jpg</loc>
+    <lastmod>2017-01-04</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://maggiecriqui.com/images/bulb.png</loc>
+    <lastmod>2017-01-04</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://maggiecriqui.com/images/pasted%20image%20301x226.png</loc>
+    <lastmod>2017-01-04</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>http://maggiecriqui.com/assets/carlos.jpg</loc>
+    <lastmod>2016-12-12</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://maggiecriqui.com/assets/arjav_maggie.jpg</loc>
     <lastmod>2016-12-12</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
@@ -445,8 +541,8 @@
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://maggiecriqui.com/images/arrow.png</loc>
-    <lastmod>2016-12-15</lastmod>
+    <loc>http://maggiecriqui.com/images/owen_participants.jpg</loc>
+    <lastmod>2017-01-04</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
@@ -457,8 +553,8 @@
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://maggiecriqui.com/images/leave.png</loc>
-    <lastmod>2016-12-15</lastmod>
+    <loc>http://maggiecriqui.com/images/owen_whiteboard.jpg</loc>
+    <lastmod>2017-01-04</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
