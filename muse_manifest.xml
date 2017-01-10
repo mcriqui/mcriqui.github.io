@@ -1,11 +1,11 @@
-<manifest alg="2" build="2017.0.0.363" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster" exportTarget="other" domain="maggiecriqui.com" resolutions="1x" timestamp="1483908901645">
+<manifest alg="2" build="2017.0.0.363" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster" exportTarget="other" domain="maggiecriqui.com" resolutions="1x" timestamp="1484075339200">
   <folder name="css">
     <file name="site_global.css" crc="42314787"/>
     <file name="master_project.css" crc="3910394647" ref="index"/>
     <file name="master_main.css" crc="422852725" ref="ibm-remote-design-thinking:index:about-me:ge-industrial-iot:ricoh-jte:resume:selfwatch"/>
     <file name="ibm-remote-design-thinking.css" crc="3928576184" ref="ibm-remote-design-thinking"/>
     <file name="index.css" crc="4219417166" ref="index"/>
-    <file name="about-me.css" crc="4162969125" ref="about-me"/>
+    <file name="about-me.css" crc="3925116314" ref="about-me"/>
     <file name="ge-industrial-iot.css" crc="158401809" ref="ge-industrial-iot"/>
     <file name="ricoh-jte.css" crc="3968775112" ref="ricoh-jte"/>
     <file name="resume.css" crc="3953335343" ref="resume"/>
@@ -134,7 +134,7 @@
     <file name="pasted image 301x226.png" crc="3993768294" seo="true" ref="selfwatch"/>
   </folder>
   <file name="index.html" crc="4103817845" seo="true" mt="1483908707462" redirect="true"/>
-  <file name="about-me.html" crc="4238644019" seo="true" mt="1483908707462" redirect="true"/>
+  <file name="about-me.html" crc="3916455172" seo="true" mt="1484062726335" redirect="true"/>
   <file name="resume.html" crc="347829937" seo="true" mt="1483908707462" redirect="true"/>
   <file name="ge-industrial-iot.html" crc="418049350" seo="true" mt="1483908707462" redirect="true"/>
   <file name="ibm-remote-design-thinking.html" crc="213472876" seo="true" mt="1483908707462" redirect="true"/>
